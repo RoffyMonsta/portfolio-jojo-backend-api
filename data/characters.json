@@ -1,0 +1,3416 @@
+[
+  {
+    "id": "d485477d-0be7-4b06-b2a6-ac6160f72595",
+    "name": "Jonathan Joestar",
+    "japaneseName": "ジョナサン・ジョースター",
+    "image": "jonathan.webp",
+    "abilities": [
+      "Hamon/Ripple",
+      "Strength",
+      "Zoom Punch",
+      "Sunlight Yellow Overdrive",
+      "Intelligence",
+      "Luck and Pluck"
+    ],
+    "nationality": "British",
+    "catchphrase": "You're next line is...",
+    "family": [
+      "Erina Pendleton",
+      "George Joestar I",
+      "Dio Brando"
+    ],
+    "chapter": [
+      "Phantom Blood",
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "9740d105-c4b6-4bdf-9c91-4353e2f92065",
+    "name": "Dio Brando",
+    "japaneseName": "ディオ・ブランド(DIO)",
+    "image": "dio.webp",
+    "abilities": [
+      "Vampirism",
+      "The World",
+      "Strength",
+      "Intellect",
+      "Immortality",
+      "Space Ripper Stingy Eyes",
+      "Regeneration",
+      "Vaporization Freezing Technique",
+      "Hypnosis",
+      "Flesh Buds",
+      "Stand"
+    ],
+    "nationality": "British",
+    "catchphrase": "WRYYYYY",
+    "family": [
+      "Dario Brando",
+      "Jonathan Joestar",
+      "Giorno Giovanna",
+      "Donatello Versus",
+      "Ungalo",
+      "Rikiel"
+    ],
+    "chapter": [
+      "Phantom Blood",
+      "Stardust Crusaders",
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "faf1d918-2837-4d9a-a8ef-3264057df2ae",
+    "name": "Erina Pendleton",
+    "japaneseName": "エリナ・ペンドルトン・ジョースター",
+    "image": "erina.png",
+    "abilities": null,
+    "nationality": "British",
+    "catchphrase": "I'm happy that the noble Jonathan Joestar is here in my arms!",
+    "family": [
+      "Jonathan Joestar",
+      "George Joestar II",
+      "Joseph Joestar",
+      "Lisa Lisa"
+    ],
+    "chapter": [
+      "Phantom Blood",
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "9edb2219-09de-4977-816e-fa2573f0ff16",
+    "name": "Will Anthonio Zeppeli",
+    "japaneseName": "ウィル・A・ツェペリ",
+    "image": "zeppeli.webp",
+    "abilities": [
+      "Hamon/Ripple",
+      "Strength",
+      "Zoom Punch",
+      "Ripple Cutter",
+      "Sunlight Yellow Overdrive",
+      "Life Magnetism Overdrive",
+      "Ultimate Deep Pass Overdrive"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "What is \"courage\"? \"Courage\" is knowing fear and making that fear your own!",
+    "family": [
+      "Mario Zeppeli",
+      "Caesar Anthonio Zeppeli"
+    ],
+    "chapter": [
+      "Phantom Blood"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "ead5ff4b-ca4d-4470-bb58-d2b4e582ce15",
+    "name": "Robert E. O. Speedwagon",
+    "japaneseName": "ロバート・E・O・スピードワゴン",
+    "image": "speedwagon.png",
+    "abilities": [
+      "Saw Hat",
+      "Personality"
+    ],
+    "nationality": "English",
+    "catchphrase": "UWHOOAH?!",
+    "family": null,
+    "chapter": [
+      "Phantom Blood",
+      "Battle Tendency",
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "45ef21ce-948e-4591-942c-96466dd6d5c4",
+    "name": "Tarkus",
+    "japaneseName": "タルカス",
+    "image": "tarkus.webp",
+    "abilities": [
+      "77 Ring Trained",
+      "Hell Heaven Snake Kill(Chain Technique)",
+      "Swordsmanship",
+      "Physical Prowess"
+    ],
+    "nationality": "British",
+    "catchphrase": "Let me hear your cries of despair! I'm an elite at slaughter! I create death and destruction by force!",
+    "family": null,
+    "chapter": [
+      "Phantom Blood"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "48dfde99-6e7b-4bde-8b93-620fba1aa17c",
+    "name": "Bruford",
+    "japaneseName": "ブラフォード",
+    "image": "bruford.webp",
+    "abilities": [
+      "77 Ring Trained",
+      "Luck",
+      "Danse Macabre Hair",
+      "Swordsmanship",
+      "Physical Prowess"
+    ],
+    "nationality": "Scottish",
+    "catchphrase": "Hehe...This pain is proof of life. If you feel pain, you can feel joy... That's what humanity means...",
+    "family": null,
+    "chapter": [
+      "Phantom Blood"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "6d25c70c-b24c-434d-b41b-80387ae02534",
+    "name": "Straizo",
+    "japaneseName": "ストレイツォ",
+    "image": "straizo.webp",
+    "abilities": [
+      "Hamon/Ripple",
+      "Strength",
+      "Space Ripper Stingy Eyes",
+      "Vampirism"
+    ],
+    "nationality": "Tibetan",
+    "catchphrase": "I, Straizo will not forgive you!",
+    "family": [
+      "Lisa Lisa"
+    ],
+    "chapter": [
+      "Phantom Blood",
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "80def2cb-d920-42ec-9b23-bf7a0d162df9",
+    "name": "Dire",
+    "japaneseName": "ダイアー",
+    "image": "dire.png",
+    "abilities": [
+      "Hamon/Ripple",
+      "Thunder Split Attack",
+      "Thunder Cross Split Attack"
+    ],
+    "nationality": "Unknown",
+    "catchphrase": "You fell for it, fool! Thunder Cross Split Attack!",
+    "family": null,
+    "chapter": [
+      "Phantom Blood"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "e07f8ded-704c-47ab-b7d1-714d77c44087",
+    "name": "Joseph Joestar",
+    "japaneseName": "ジョセフ・ジョースター",
+    "image": "joseph.webp",
+    "abilities": [
+      "Hamon/Ripple",
+      "Hermit Purple",
+      "Clacker Balls",
+      "Clairvoyence",
+      "Strength",
+      "Intelligence",
+      "Stand"
+    ],
+    "nationality": "British",
+    "catchphrase": "You're next line is...",
+    "family": [
+      "Jonathan Joestar",
+      "Jotaro Kujo",
+      "Erina Joestar",
+      "Suzi Q",
+      "Holly Kujo",
+      "Lisa Lisa",
+      "Josuke Higashikata",
+      "Shizuka Joestar"
+    ],
+    "chapter": [
+      "Battle Tendency",
+      "Stardust Crusaders",
+      "Diamond Is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "d41dadf1-3e42-400f-9c03-e079d69b41d7",
+    "name": "Caesar Anthonoio Zeppeli",
+    "japaneseName": "シーザー・アントニオ・ツェペリ",
+    "image": "caesar.png",
+    "abilities": [
+      "Hamon/Ripple",
+      "Bubble Launcher",
+      "Bubble Barrier",
+      "Bubble Cutter",
+      "Bubble Lenses",
+      "Repel",
+      "Strength"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Jojo, this is my last Ripple! Take it!",
+    "family": [
+      "Will Anthonio Zeppeli",
+      "Mario Zeppeli"
+    ],
+    "chapter": [
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "00d392bb-2a4d-440a-bcda-47b3abcba9b4",
+    "name": "Lisa Lisa",
+    "japaneseName": "リサリサ",
+    "image": "lisalisa.webp",
+    "abilities": [
+      "Hamon/Ripple",
+      "Snake Muffler",
+      "Red Stone of Aja"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Hey the big guy on the left, I don't like your face. I'm gonna have to hurt you.",
+    "family": [
+      "Erina Joestar",
+      "Joseph Joestar"
+    ],
+    "chapter": [
+      "Phantom Blood",
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "2c582d33-63b5-4f39-9438-c597d7fa7593",
+    "name": "Rudol von Stroheim",
+    "japaneseName": "ルドル・フォン・シュトロハイム",
+    "image": "stronheim.png",
+    "abilities": [
+      "Cyborg",
+      "Abdominal Machine Gun",
+      "Ultraviolet Radiation Beam",
+      "Ultraviolet Shoulder Cannons"
+    ],
+    "nationality": "German",
+    "catchphrase": "German science is the greatest in the world!",
+    "family": null,
+    "chapter": [
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "43b3d848-8e68-4511-9484-aadd1dc89170",
+    "name": "Kars",
+    "japaneseName": "カーズ",
+    "image": "kars.webp",
+    "abilities": [
+      "Vampirism",
+      "Superhuman strength",
+      "Ultimate Life Form",
+      "Superhuman Intelligence",
+      "Light Mode",
+      "Body Manipulation",
+      "Immortality",
+      "Ripple",
+      "Regeneration",
+      "Biology Manipulation",
+      "Reactive Evolution"
+    ],
+    "nationality": "Pillar Man",
+    "catchphrase": "It seems I, Kars, am the only one left...but only one can stand at the top!",
+    "family": null,
+    "chapter": [
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "6ec862b3-3ee2-4348-98c1-e61857eb1891",
+    "name": "Esidisi",
+    "japaneseName": "エシディシ",
+    "image": "esidisi.webp",
+    "abilities": [
+      "Vampirism",
+      "Superhuman strength",
+      "Ultimate Life Form",
+      "Superhuman Intelligence",
+      "Light Mode",
+      "Body Manipulation",
+      "Immortality",
+      "Ripple",
+      "Regeneration",
+      "Biology Manipulation",
+      "Reactive Evolution"
+    ],
+    "nationality": "Pillar Man",
+    "catchphrase": "I am \"Esidisi of the Flame\"! My Mode controls heat!",
+    "family": null,
+    "chapter": [
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "5a4dc7cc-d41a-442a-b881-54f75d690119",
+    "name": "Wamuu",
+    "japaneseName": "ワムウ",
+    "image": "wamuu.webp",
+    "abilities": [
+      "Vampirism",
+      "Superhuman strength",
+      "Wind Mode",
+      "Divine Sandstorm",
+      "Atmospheric Rift",
+      "Headgear",
+      "Body Manipulation",
+      "Absorption/Blood Vessels"
+    ],
+    "nationality": "Pillar Man",
+    "catchphrase": "You beat me, JoJo. And as a warrior, it appears you stand taller than I do.",
+    "family": null,
+    "chapter": [
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "53b2c078-b22d-4622-a7b0-c4d8a01cb89f",
+    "name": "Santana",
+    "japaneseName": "サンタナ",
+    "image": "santana.png",
+    "abilities": [
+      "Vampirism",
+      "Superhuman strength",
+      "Advanced Intelligence",
+      "Ribs Blades",
+      "Body Manipulation",
+      "Absorption/Blood Vessels"
+    ],
+    "nationality": "Pillar Man",
+    "catchphrase": "Give it up, you primitive beings.",
+    "family": null,
+    "chapter": [
+      "Battle Tendency"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "ad6126ea-33c0-489d-8d7b-4135f197ff08",
+    "name": "Jotaro Kujo",
+    "japaneseName": "空条 承太郎",
+    "image": "jotaro.png",
+    "abilities": [
+      "Strength",
+      "Intelligence",
+      "Star Platinum"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "What a pain...(やれやれだぜ)",
+    "family": [
+      "Jonathan Joestar",
+      "Joseph Joestar",
+      "Holly Joestar",
+      "Jolyne Kujo",
+      "Josuke Higashikata"
+    ],
+    "chapter": [
+      "Stardust Crusaders",
+      "Diamond Is Unbreakable",
+      "Vento Aureo",
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "3dc8b333-ce07-443c-acf0-c5eea14f5699",
+    "name": "Muhammad Avdol",
+    "japaneseName": "モハメド・アヴドゥル",
+    "image": "avdol.webp",
+    "abilities": [
+      "Magician's Red"
+    ],
+    "nationality": "Egyptian",
+    "catchphrase": "Hell 2 U!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "89965ccb-b023-48ad-93e2-5c2d9dbbbc12",
+    "name": "Noriaki Kakyoin",
+    "japaneseName": "花京院典明",
+    "image": "kakyoin.webp",
+    "abilities": [
+      "Heirophant Green",
+      "Intelligence"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Rerorerorerorerorerorero.",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "02018ef1-4eb4-4e5a-8d30-78f86d7acbf0",
+    "name": "Jean Pierre Polnareff",
+    "japaneseName": "ジャン・ピエール・ポルナレフ",
+    "image": "polnareff.png",
+    "abilities": [
+      "Silver Chariot",
+      "Intelligence",
+      "Swordsmanship"
+    ],
+    "nationality": "French",
+    "catchphrase": "I'm gonna turn you into a pincushion!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders",
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "f8514cd8-0945-4387-b499-123967a7ed63",
+    "name": "Iggy",
+    "japaneseName": "イギー",
+    "image": "iggy.webp",
+    "abilities": [
+      "The Fool",
+      "Intelligence"
+    ],
+    "nationality": "American",
+    "catchphrase": "I guess I don't have the heart to abandon a kid who likes dogs!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "0bf3eb3b-a752-4175-898c-5c85ec96efc4",
+    "name": "Enya the Hag",
+    "japaneseName": "エンヤ婆",
+    "image": "enya.webp",
+    "abilities": [
+      "Justice",
+      "Intelligence"
+    ],
+    "nationality": "Unknown",
+    "catchphrase": "Just one little wound is all I need...then \"Justice\" will do the rest!",
+    "family": [
+      "J. Geil"
+    ],
+    "chapter": [
+      "Stardust Crusaders",
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "94c490bf-0200-4028-ac25-a33a2277096b",
+    "name": "Vanilla Ice (Cool Ice)",
+    "japaneseName": "ヴァニラ・アイス",
+    "image": "vanillaice.png",
+    "abilities": [
+      "Cream",
+      "Vampirism"
+    ],
+    "nationality": "Unknown",
+    "catchphrase": "One by one, each of you shall fall in line, as I scatter your atomic fragments across the deepest recesses of the void.",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "1a50f168-032c-4702-a283-5705ec1965a2",
+    "name": "Hol Horse",
+    "japaneseName": "ホル・ホース",
+    "image": "holhorse.png",
+    "abilities": [
+      "Emperor"
+    ],
+    "nationality": "Unknown",
+    "catchphrase": "\"Better to be No.2 than No.1\", that's my motto!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "8dd9b41e-6017-4935-9735-0e16bd249f71",
+    "name": "J. Geil",
+    "japaneseName": "J・ガイル",
+    "image": "geil.webp",
+    "abilities": [
+      "Hanged Man"
+    ],
+    "nationality": "Unknown",
+    "catchphrase": "Ku ku ku ku ku.... You really did waste your youth trying to hunt me down... but it looks like you won't succeed! What a pathetic life you've lived!",
+    "family": [
+      "Enya"
+    ],
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "d43d96b6-57bc-4626-8f96-15755a3b049d",
+    "name": "Daniel J. D'Arby",
+    "japaneseName": "ダニエル・J・ダービー",
+    "image": "danieldarby.webp",
+    "abilities": [
+      "Osiris",
+      "Gambling (Cheating)"
+    ],
+    "nationality": "American",
+    "catchphrase": "GOOD.",
+    "family": [
+      "Terence T. D'Arby"
+    ],
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "d34a7410-6acf-4edb-88af-8db732d9ea4a",
+    "name": "Terence T. D'Arby",
+    "japaneseName": "テレンス・T.・ダービー",
+    "image": "terencedarby.png",
+    "abilities": [
+      "Atum",
+      "Videogames"
+    ],
+    "nationality": "American",
+    "catchphrase": "Are you going to do the \"ORA ORA\" thing?!",
+    "family": [
+      "Daniel J. D'Arby"
+    ],
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "63da4702-9ea4-40c8-ae87-d8b7bb8b9140",
+    "name": "Pet Shop",
+    "japaneseName": "ペット・ショップ",
+    "image": "petshop.png",
+    "abilities": [
+      "Horus"
+    ],
+    "nationality": "Unknown",
+    "catchphrase": null,
+    "family": [
+      "DIO"
+    ],
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "044c1a48-9c30-4aa8-8fc1-e41b0308f438",
+    "name": "N'Doul",
+    "japaneseName": "ンドゥール",
+    "image": "ndoul.png",
+    "abilities": [
+      "Geb",
+      "Enhanced hearing"
+    ],
+    "nationality": "Egyptian",
+    "catchphrase": "I do not fear death, but I don't want to be killed by that man... evil needs a savior as well...",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "7496491a-514f-40ac-9951-1325966d1235",
+    "name": "Mariah",
+    "japaneseName": "マライア",
+    "image": "mariah.webp",
+    "abilities": [
+      "Bastet"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Boys always want to touch things they aren't supposed to.",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "60e77926-69af-46b5-ae83-567440227344",
+    "name": "Alessi",
+    "japaneseName": "アレッシー",
+    "image": "alessi.webp",
+    "abilities": [
+      "Sethan"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Attaboy...",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "0e0840ec-4e38-4145-aa14-8264c19d1437",
+    "name": "Oingo (Zenyatta)",
+    "japaneseName": "オインゴ",
+    "image": "oingo.png",
+    "abilities": [
+      "Khnum"
+    ],
+    "nationality": "Egyptian",
+    "catchphrase": "Our cards are the god of knowledge Tohth, and the god of creation Khnum! We are the Oingo Boingo brothers!",
+    "family": [
+      "Boingo (Mondatta)"
+    ],
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "12ca337f-f68c-43e1-9e2a-97e4168de4f8",
+    "name": "Boingo (Mondatta)",
+    "japaneseName": "オインゴ",
+    "image": "boingo.png",
+    "abilities": [
+      "Tohth"
+    ],
+    "nationality": "Egyptian",
+    "catchphrase": "My Stand Tohth's predictions are always right!",
+    "family": [
+      "Oingo (Zenyatta)"
+    ],
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "eb62f8b6-5d77-43f2-b0e5-ca9db4931c18",
+    "name": "Anubis",
+    "japaneseName": "アヌビス神",
+    "image": "anubis.png",
+    "abilities": [
+      "Bound to a Scimitar",
+      "Mind Control",
+      "Selective Intangibility",
+      "Adaptability (Learning)",
+      "Selective Drawing"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "When I fight against someone, I never lose!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "570e6bc8-7602-4b1d-9403-36457dc5400d",
+    "name": "Gray Fly",
+    "japaneseName": "グレー・フライ",
+    "image": "grayfly.png",
+    "abilities": [
+      "Tower of Gray"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I'm planning on doing one hell of a... MASSACRE!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "7524923d-28fd-4259-a714-b3549d2a5a1b",
+    "name": "Imposter Captain Tennille",
+    "japaneseName": "偽キャプテン・テニール",
+    "image": "captain.png",
+    "abilities": [
+      "Dark Blue Moon",
+      "Lung Capacity"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Troublesome waters! Lies and betrayal! It represents the fear of the unknown: the card of the moon, Dark Blue Moon!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "9c06ba28-d5ea-449a-8787-9682b7eac1ed",
+    "name": "Forever",
+    "japaneseName": "フォーエバー",
+    "image": "forever.png",
+    "abilities": [
+      "Strength",
+      "Intelligence"
+    ],
+    "nationality": "unknown",
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "020d4136-a850-417d-8071-7aff69375908",
+    "name": "Devo (Soul Sacrifice)",
+    "japaneseName": "呪いのデーボ",
+    "image": "devo.webp",
+    "abilities": [
+      "Ebony Devil"
+    ],
+    "nationality": "Native American",
+    "catchphrase": "I am Devo the Cursed. And my Stand represents \"The Devil\" of the Major Arcana... It symbolizes confusion and misfortune.",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "b6bddb3a-1448-4e3d-aeea-a483cfec3ccd",
+    "name": "Rubber Soul",
+    "japaneseName": "ラバーソール",
+    "image": "rubbersoul.png",
+    "abilities": [
+      "Yellow Temperance"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "DO - YOU - UNDERSTANDDDD!?",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "a5c72fe4-263f-4075-8a5b-10fadab4ce26",
+    "name": "Nena",
+    "japaneseName": "ネーナ",
+    "image": "nena.webp",
+    "abilities": [
+      "Empress"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I am the \"Empress\", old man!  And you Joseph will be the first to die!!!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "60277ca6-ca3e-48ea-9923-22f71b144096",
+    "name": "ZZ",
+    "japaneseName": "ズィー・ズィー",
+    "image": "zz.webp",
+    "abilities": [
+      "Wheel of Fortune"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Wheel of Fortune is gonna grind you into hamburgers and splatter you all over these rocks!!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "a506884c-1634-4dfb-8a14-a329cab9d232",
+    "name": "Steely Dan",
+    "japaneseName": "鋼入りの（スティーリー）ダン",
+    "image": "steelydan.png",
+    "abilities": [
+      "Lovers"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "My name is Dan... Steely Dan. My Stand is represented by the card of \"The Lovers\".",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "51965e29-6ffb-4ad5-a6d8-914194ccce9b",
+    "name": "Arabia Fats",
+    "japaneseName": "アラビア・ファッツ",
+    "image": "arabia.webp",
+    "abilities": [
+      "Sun"
+    ],
+    "nationality": "unknown",
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "9efe490b-feb8-4dad-9627-9190490870ab",
+    "name": "Mannish Boy",
+    "japaneseName": "マニッシュ・ボーイ",
+    "image": "mannish.png",
+    "abilities": [
+      "Death Thirteen"
+    ],
+    "nationality": "Egyptian",
+    "catchphrase": "Although I still crap in diapers, I'm still smarter than you jokers combined!! LALI-HO!!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "9ac4561b-4de2-423f-8299-0d79e8d9ea16",
+    "name": "Cameo",
+    "japaneseName": "カメオ",
+    "image": "cameo.webp",
+    "abilities": [
+      "Judgement"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Hail 2U!",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "fb3a5a88-d875-41c5-b7a9-1552d5e521c1",
+    "name": "Midler",
+    "japaneseName": "ミドラー",
+    "image": "midler.webp",
+    "abilities": [
+      "High Priestess"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Jotaro, you're my kind of guy... I regret that I have to destroy you...",
+    "family": null,
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "f91880e4-c53e-41a1-8388-51b9cfaea01f",
+    "name": "Josuke Higashikata",
+    "japaneseName": "東方 仗助",
+    "image": "josuke.png",
+    "abilities": [
+      "Crazy Diamond",
+      "intelligence",
+      "short temper",
+      "physical fitness",
+      "stand mastery"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "This is great! (グレートだぜ! Gurēto daze)",
+    "family": [
+      "Tomoko Higashikata",
+      "Ryohei Higashikata",
+      "Jotaro Kujo",
+      "Joseph Joestar",
+      "Shizuka Joestar"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable",
+      "Rohan at the Lourve"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "0fe09631-922f-4dcf-9421-e131dfc93196",
+    "name": "Tomoko Higashikata",
+    "japaneseName": "東方 朋子",
+    "image": "tomoko.png",
+    "abilities": null,
+    "nationality": "Japanese",
+    "catchphrase": "I hope Josuke's behaving himself. He just got into high school. I really don't get that brat sometimes. But, he is really tender and gentle deep down, so I guess I shouldn't worry so much.",
+    "family": [
+      "Josuke Higashikata",
+      "Ryohei Higashikata",
+      "Jotaro Kujo",
+      "Joseph Joestar",
+      "Shizuka Joestar"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "61c28c33-f78e-4b32-af23-ac60cb785063",
+    "name": "Okuyasu Nijimura",
+    "japaneseName": "虹村億泰",
+    "image": "okuyasu.webp",
+    "abilities": [
+      "The Hand",
+      "stand mastery"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I'm not that smart, okay? I just do what my heart tells me to do.",
+    "family": [
+      "Keicho Nijimura",
+      "Father"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable",
+      "Rohan at the Lourve"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "e2654a05-1402-4b27-99ec-789295c669c4",
+    "name": "Keicho Nijimura",
+    "japaneseName": "虹村形兆",
+    "image": "keicho.png",
+    "abilities": [
+      "Bad Company"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "My plans are on a level beyond your comprehension. Just you wait, in the end, it will all go according to my plan.",
+    "family": [
+      "Okuyasu Nijimura",
+      "Father"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "cdea3c53-181d-44b1-9386-68a710efdd21",
+    "name": "Nijimura's Father",
+    "japaneseName": "虹村父",
+    "image": "father.png",
+    "abilities": [
+      "Regeneration",
+      "Stand(?)",
+      "Immortality"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": null,
+    "family": [
+      "Okuyasu Nijimura",
+      "Keicho Nijimura"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "25a54a29-317f-43f5-8d61-2b417563a4ea",
+    "name": "Koichi Hirose",
+    "japaneseName": "広瀬 康一",
+    "image": "koichi.png",
+    "abilities": [
+      "Echoes",
+      "stand mastery"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "In case you're wondering, my name is Koichi Hirose (though I guess it's not that important). Anyway, I was nervously walking myself to class... until I met those two really strange guys.",
+    "family": [
+      ""
+    ],
+    "chapter": [
+      "Diamond is Unbreakable",
+      "Rohan at the Lourve",
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "b3e52b76-fa41-4259-acaa-7a76f47b9476",
+    "name": "Rohan Kishibe",
+    "japaneseName": "岸辺 露伴",
+    "image": "rohan.png",
+    "abilities": [
+      "Heaven's Door",
+      "stand mastery",
+      "Dexterity",
+      "Draftsmanship"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Reality is the lifeblood that makes a work pulse with energy. Reality itself is entertainment!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable",
+      "Rohan at the Lourve",
+      "Thus Spoke Kishibe Rohan"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "0e336a3e-c643-46dd-964f-569d4160dc0f",
+    "name": "Reimi Sugimoto",
+    "japaneseName": "杉本 鈴美",
+    "image": "reimi.png",
+    "abilities": [
+      "Ghost"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "If my killer is caught, Morioh will finally stop being the playground of this maniac and go back to normal. We must stop this monster as soon as we can!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "f7485d42-632b-4a83-b04b-6b2c5ad77be2",
+    "name": "Shigekiyo Yangu",
+    "japaneseName": "矢安宮 重清(重ちー)",
+    "image": "shigechi.png",
+    "abilities": [
+      "Harvest"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "As long as ya'll be with me, my little Harvests, I'll never run outta money...for my whole life!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "b6d478f2-39da-479d-a9d6-ba0839ab0dfb",
+    "name": "Mikitaka Hazekura",
+    "japaneseName": "支倉未起隆",
+    "image": "mikitaka.png",
+    "abilities": [
+      "Earth Wind and Fire"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "\"Alien\"? Yes, that is the term. I am an alien!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "9625c1d4-ea22-4851-a404-082268c3a0bc",
+    "name": "Yukako Yamagishi",
+    "japaneseName": "山岸由花子",
+    "image": "yukako.png",
+    "abilities": [
+      "Love Deluxe"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "It doesn't matter if anyone comes, because love is invincible.",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable",
+      "Thus Spoke Kishibe Rohan"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "64fd26d9-d118-4a20-9e55-c9c04ec23d7d",
+    "name": "Yuya Fungami",
+    "japaneseName": "噴上裕也",
+    "image": "yuya.png",
+    "abilities": [
+      "Highway Star",
+      "Sense of Smell"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I am... just so gloriously handsome! Check out this face of mine.",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "1b575be4-68d4-41eb-8795-c6e24d2f4925",
+    "name": "Toshikazu Hazamada",
+    "japaneseName": "間田 敏和",
+    "image": "toshikazu.jpg",
+    "abilities": [
+      "Surface"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I finally got this so-called \"Stand\" ability...not everyone gets to have one, you know? Kinda makes you want to live a more dangerous and successful life than the average guy, don't you think?",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "1233c0f6-fe79-4907-9956-e994150735d7",
+    "name": "Tonio Trussardi",
+    "japaneseName": "トニオ・トラサルディー",
+    "image": "tonio.png",
+    "abilities": [
+      "Pearl Jam",
+      "Cooking",
+      "Esoteric Knowledge"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Now, let's continue with the meal, shall we?",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "2b0df096-7ce9-4973-8d93-f77bb919a708",
+    "name": "Aya Tsuji",
+    "japaneseName": "辻 彩",
+    "image": "aya.png",
+    "abilities": [
+      "Cinderella"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I didn't open this salon for the money. It's because I wanted to make people happy like the fairy godmother in Cinderella.",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "9438aa54-26a7-46c5-a345-3013cd8819e6",
+    "name": "Yoshikage Kira",
+    "japaneseName": "吉良 吉影",
+    "image": "kira.png",
+    "abilities": [
+      "Killer Queen",
+      "Stray Cat",
+      "Serial Killer"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I want a peaceful life. It's just that it's in my nature to kill.",
+    "family": [
+      "Yoshihiro Kira",
+      "Tama"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "32b93a32-2a94-4168-99e4-e0fd7ce26d8f",
+    "name": "Yoshihiro Kira",
+    "japaneseName": "吉良吉廣",
+    "image": "yoshihorokira.webp",
+    "abilities": [
+      "Atom Heart Father",
+      "Stand Arrow"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I will kill anyone who harms my beloved son!",
+    "family": [
+      "Yoshikage Kira"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "4eefaa34-ef3d-4240-8404-174563417ea2",
+    "name": "Tama",
+    "japaneseName": "タマ",
+    "image": "tama.png",
+    "abilities": [
+      "Stray Cat"
+    ],
+    "nationality": "unknown",
+    "catchphrase": null,
+    "family": [
+      "Yoshikage Kira"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "a3d8f416-fbce-4da0-ae15-660af4e58974",
+    "name": "Akira Otoishi",
+    "japaneseName": "音石 明",
+    "image": "akira.webp",
+    "abilities": [
+      "Red Hot Chili Pepper"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "In the near future, with this baby right here, I'm gonna BLOW THE WHOLE WORLD AWAY!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "472c1e36-d2a9-4d1d-8f0c-5a2f69ec2f77",
+    "name": "Anjuro \"Angelo\" Katagiri",
+    "japaneseName": "片桐 安十郎",
+    "image": "angelo.webp",
+    "abilities": [
+      "Aqua Necklace",
+      "Criminal"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Today, tomorrow, whenever, I'll wait patiently for my chance. Then, I'll kill you and your hot mom!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "9068b097-6a5d-4576-947a-cc1f5be83214",
+    "name": "Bug-Eaten",
+    "japaneseName": "虫喰い",
+    "image": "bugeaten.png",
+    "abilities": [
+      "Ratt"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Skwiiiiiiiiieck",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "02ed5697-eb9f-47ee-bbbf-f47197fea3b8",
+    "name": "Ken Oyanagi",
+    "japaneseName": "大柳 賢",
+    "image": "ken.png",
+    "abilities": [
+      "Boy II Man"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Hey, mister. Wanna play rock-paper-scissors?",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "70608f1f-e75e-4d67-9e0e-7c0fb9d2c8a5",
+    "name": "Toyohiro Kanedaichi",
+    "japaneseName": "鋼田一 豊大",
+    "image": "toyohiro.png",
+    "abilities": [
+      "Super Fly",
+      "Acrobatics"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I see, so you were curious about my house?",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "824d966e-ca69-4140-9276-cf24bb68e1c1",
+    "name": "Terunosuke Miyamoto",
+    "japaneseName": "宮本 輝之輔",
+    "image": "miyamoto.png",
+    "abilities": [
+      "Enigma"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "When I find your terror's tells, my Enigma can strike perfectly!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "36257af0-4659-4f2c-9b20-419aa7c91b5c",
+    "name": "Masazo Kinoto",
+    "japaneseName": "乙 雅三",
+    "image": "masazo.png",
+    "abilities": [
+      "Cheap Trick"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I hate it when people see my back!",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "bd46d956-c0c9-4e3f-9a0f-f1c8dd949270",
+    "name": "Tamami Kobayashi",
+    "japaneseName": "小林 玉美",
+    "image": "tamami.png",
+    "abilities": [
+      "The Lock"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "You feel \"guilty,\" right?",
+    "family": null,
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "aab402b6-bb9d-4b37-bc0a-026e0a1caf0a",
+    "name": "Shizuka Joestar",
+    "japaneseName": "静・ジョースター",
+    "image": "shizuka.webp",
+    "abilities": [
+      "Achtung Baby"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": null,
+    "family": [
+      "Joseph Joestar",
+      "Suzi Q",
+      "Josuke Higashikata",
+      "Jotaro Kujo"
+    ],
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
+    "name": "Giorno Giovanna",
+    "japaneseName": "ジョルノ・ジョバァーナ",
+    "image": "giorno.png",
+    "abilities": [
+      "Gold Experience (Requiem)",
+      "resolve"
+    ],
+    "nationality": "Japanese-British",
+    "catchphrase": "I, Giorno Giovanna, have a dream.",
+    "family": [
+      "DIO",
+      "Jonathan Joestar",
+      "Ungalo",
+      "Rikiel",
+      "Donatello Versus"
+    ],
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "d6a7e82e-3a52-4eed-8dd0-6f9be38677dd",
+    "name": "Bruno Bucciarati",
+    "japaneseName": "ブローノ・ブチャラティ",
+    "image": "bucciarati.png",
+    "abilities": [
+      "Sticky Fingers",
+      "Intelligence",
+      "Lie Detection",
+      "Undead"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "This taste...is the taste of a liar!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "0edc86c0-6a1a-4747-bf3b-41444d86444c",
+    "name": "Leone Abbacchio",
+    "japaneseName": "レオーネ・アバッキオ",
+    "image": "abbacchio.png",
+    "abilities": [
+      "Moody Blues"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I'll use my Stand to solve the mystery!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "e7031d0f-54e8-400b-b46c-3fb30d3b11dd",
+    "name": "Guido Mista",
+    "japaneseName": "グイード・ミスタ",
+    "image": "guido.png",
+    "abilities": [
+      "Sex Pistols",
+      "Sharpshooter"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "We'll end it right here, right now. Time to bust a cap in his mouth!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "1ae6049e-48b4-468c-954b-833d6993570b",
+    "name": "Narancia Ghirga",
+    "japaneseName": "ナランチャ・ギルガ",
+    "image": "narancia.png",
+    "abilities": [
+      "Aerosmith"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Volare Via!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "b55ebf3e-6979-4885-91e8-2e51c6b65ce7",
+    "name": "Pannacotta Fugo",
+    "japaneseName": "パンナコッタ・フーゴ",
+    "image": "fugo.png",
+    "abilities": [
+      "Purple Haze"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "You stupid delinquent! Are you messing with me!? How many times do I have to teach you this before you learn?! You just said six times five was thirty, so why the hell is your answer even less?! YOU SHIT-FOR-BRAINS!!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "9538ba76-ca4a-45c4-9d96-bb6c723ff4d4",
+    "name": "Trish Una",
+    "japaneseName": "トリッシュ・ウナ",
+    "image": "trish.png",
+    "abilities": [
+      "Spice Girl",
+      "Spiritual Connection"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I, too... can overcome... the fate I inherited from you... I will not cower or flee! If you try to stop me... I shall soar beyond you.",
+    "family": [
+      "Diavolo"
+    ],
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "3d02e784-873b-471a-a18b-ddae283e8116",
+    "name": "Silver Chariot Requiem",
+    "japaneseName": "チャリオッツ・レクイエム",
+    "image": "chariotrequiem.png",
+    "abilities": [
+      "Regeneration",
+      "Soul Manipulation",
+      "Grand Scale Soul Swapping",
+      "Stand Manipulation",
+      "Complete Alteration of All Life",
+      "Autonomy"
+    ],
+    "nationality": null,
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "fee46aa1-b903-4d05-9f9c-8bf8e0374040",
+    "name": "Coco Jumbo",
+    "japaneseName": "ココ・ジャンボ",
+    "image": "coco.png",
+    "abilities": [
+      "Mr.President"
+    ],
+    "nationality": "unknown",
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "853fa6f7-302f-4d59-a220-3747cf73befe",
+    "name": "Diavolo",
+    "japaneseName": "ディアボロ",
+    "image": "diavolo.png",
+    "abilities": [
+      "King Crimson"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I am an emperor! My only goal is to remain at the top!",
+    "family": [
+      "Trish Una"
+    ],
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "6ba3709d-c27d-4acf-a527-a66da9ba53e3",
+    "name": "Vinegar Doppio",
+    "japaneseName": "ヴィネガー・ドッピオ",
+    "image": "doppio.png",
+    "abilities": [
+      "Epitaph"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Bring, ring, ring, ring, ring...",
+    "family": [
+      "Diavolo"
+    ],
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
+    "name": "Squalo and Tiziano",
+    "japaneseName": "スクアーロ & ティッツァーノ",
+    "image": "squalo.png",
+    "abilities": [
+      "Clash and Talking Head"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I won't leave even a scrap of him behind, and I'll kill every last member of his team... I'll rip them to pieces and make them pay for what they've done!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "f459fb02-ed25-40f7-a823-ed7c51a5f209",
+    "name": "Carne",
+    "japaneseName": "ヴカルネ",
+    "image": "carne.png",
+    "abilities": [
+      "Notorious B.I.G"
+    ],
+    "nationality": "Italian",
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "2f461448-ee6d-43ac-99a4-6697046aeca4",
+    "name": "Cioccolata",
+    "japaneseName": "チョコラータ",
+    "image": "ciocco.png",
+    "abilities": [
+      "Green Day",
+      "Surgical Genius"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Let me see the look on your face at the moment your hope burns out... and your life reaches its end! Show me your despair as you fall!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "f0a9dcc6-7f92-49b8-8130-5b206c209f37",
+    "name": "Secco",
+    "japaneseName": "セッコ",
+    "image": "secco.png",
+    "abilities": [
+      "Oasis",
+      "Spitting",
+      "Enhanced Hearing"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Oh! Almost forgot! Gotta get it on video...Won't take long to kill you, though...",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "fa6aed91-e98f-4ccc-908d-2ca8b113f0e5",
+    "name": "Polpo",
+    "japaneseName": "ポルポ",
+    "image": "polpo.webp",
+    "abilities": [
+      "Black Sabbath",
+      "Illusionist"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Compared to trust, someone being smart or talented is as significant as this piece of chewed-up cracker scum between my teeth...",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "104c9ac4-4ca7-4cf8-a18e-fad37044f756",
+    "name": "Mario Zucchero",
+    "japaneseName": "マリオ・ズッケェロ",
+    "image": "mario.png",
+    "abilities": [
+      "Soft Machine"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I'm the one doin' the talking here! I'm the one in control!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "fc747554-3c51-4d44-ac27-8b076ef7d8c4",
+    "name": "Sale",
+    "japaneseName": "サーレー",
+    "image": "sale.png",
+    "abilities": [
+      "Kraft Work"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "If I go all out with my Stand, Kraft Work, it ain't a challenge for me to swat your bullets down.",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "0997252b-282d-4dce-9165-c679d04ca3cb",
+    "name": "Risotto Nero",
+    "japaneseName": "リゾット・ネエロ",
+    "image": "risotto.png",
+    "abilities": [
+      "Metallica",
+      "Tacitcal Intelligence"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I can't wait! I can't wait to see the look on your face as you die! I win! I'll send your head flying!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "83b8baad-e111-43b5-8aa5-7a2117134a9d",
+    "name": "Formaggio",
+    "japaneseName": "ホルマジオ",
+    "image": "formaggio.png",
+    "abilities": [
+      "Little Feet"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "\"It can't be helped\" (しょう が ねえなあ---つ)",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "f92888f3-164c-4116-8b1e-2670feb61d24",
+    "name": "Illuso",
+    "japaneseName": "イルーゾォ",
+    "image": "illuso.webp",
+    "abilities": [
+      "Man in the Mirror"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "I stand secure and unmatched inside the mirror.",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "3eabb474-9fa2-42fa-a174-57c7c5475afe",
+    "name": "Prosciutto",
+    "japaneseName": "プロシュート",
+    "image": "prosciutto.webp",
+    "abilities": [
+      "The Grateful Dead"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "When we truly think \"I'll kill you!\" from the bottom of our hearts... by that time, the deed has already been done!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "8c96138a-918f-427e-a9f5-6577202df06a",
+    "name": "Pesci",
+    "japaneseName": "ペッシ",
+    "image": "peschi.png",
+    "abilities": [
+      "Beach Boy"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Before Big Brother's life leaves his body... I'll make you pay before his very eyes!!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "620b67dc-b799-49a1-b861-c2bb148020e2",
+    "name": "Melone",
+    "japaneseName": "メローネ",
+    "image": "melone.png",
+    "abilities": [
+      "Baby Face",
+      "Pseudoscience Knowledge"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Di molto!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "742bcd25-9cb7-4a1f-8274-313c9f3cfc59",
+    "name": "Ghiaccio",
+    "japaneseName": "ギアッチョ",
+    "image": "ghiaccio.png",
+    "abilities": [
+      "White Album",
+      "Gently Weeps"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "Even roaring train engines, even the raging seas will come to a grinding halt at my command! None can defy my whims!",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "e43d14d4-e80c-459c-97f1-4afa8f3b1095",
+    "name": "Scolippi",
+    "japaneseName": "スコリッピ",
+    "image": "scolippi.png",
+    "abilities": [
+      "Rolling Stones"
+    ],
+    "nationality": "Italian",
+    "catchphrase": "We are all slaves of fate. That is the meaning of my ability, Rolling Stones.",
+    "family": null,
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "ec2f199e-6a38-4d7b-8d15-b9950775ac03",
+    "name": "Jolyne Kujo",
+    "japaneseName": "空条 徐倫",
+    "image": "jolyne.webp",
+    "abilities": [
+      "Stone Free"
+    ],
+    "nationality": "Japanese-American",
+    "catchphrase": "Gimme a break! (やれやれだわ Yare Yare Dawa)",
+    "family": [
+      "Jotaro Kujo"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "3cc31871-432c-4e55-b85c-7701ffb6d265",
+    "name": "Ermes Costello",
+    "japaneseName": "エルメェス・コステロ",
+    "image": "ermes.webp",
+    "abilities": [
+      "Kiss"
+    ],
+    "nationality": "Mexican-American",
+    "catchphrase": "\"Revenge\" is for settling your score with your own destiny!",
+    "family": [
+      "Gloria Costello"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "e2727ad2-cc40-4d70-964f-2b0717dc5568",
+    "name": "Emporio Alniño",
+    "japaneseName": "エンポリオ・アルニーニョ",
+    "image": "emporio.png",
+    "abilities": [
+      "Burning Down the House",
+      "Weather Report"
+    ],
+    "nationality": "American",
+    "catchphrase": "Don't you see it? You lost to your own \"fate\". Walking the path of \"Justice\" is true \"Fate\"!",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "b96ed32d-0ce6-414f-a695-dfde77eb63f6",
+    "name": "Foo Fighters (F.F.)",
+    "japaneseName": "フー・ファイターズ",
+    "image": "foofighters.png",
+    "abilities": [
+      "Foo Fighters (Stand/Human Hybrid)"
+    ],
+    "nationality": null,
+    "catchphrase": "Look at me Jolyne. This is my \"spirit\"... This is my \"intellect\"... I was alive.",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "5de913dd-7b2c-4b94-918b-64e2da6fe4ea",
+    "name": "Narciso Anasui",
+    "japaneseName": "ナルシソ・アナスイ",
+    "image": "narciso.png",
+    "abilities": [
+      "Diver Down"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I love you... I've been dying to come here for you...",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "6fc74309-54d9-4465-8808-97b427b14420",
+    "name": "Weather Report (Weather Forecast)",
+    "japaneseName": "ウェザー・リポート",
+    "image": "weather.png",
+    "abilities": [
+      "Weather Report"
+    ],
+    "nationality": "Italian-American",
+    "catchphrase": "I'm going to be the one to kill Pucci. And after I kill him, kill me. Understand?",
+    "family": [
+      "Enrico Pucci"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "c8fa0c3b-332b-42e5-9343-3d30ae6ea03a",
+    "name": "Gwess",
+    "japaneseName": "グェス",
+    "image": "gwess.webp",
+    "abilities": [
+      "Goo Goo Dolls"
+    ],
+    "nationality": "American",
+    "catchphrase": "Even though I said you can't speak, you can still say cute things. Like \"I wanna walk\", \"I'm hungry\", and \"Good night\". Got it?",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "name": "Enrico Pucci",
+    "japaneseName": "エンリコ・プッチ",
+    "image": "pucci.webp",
+    "abilities": [
+      "Whitesnake",
+      "C-Moon",
+      "Made in Heaven"
+    ],
+    "nationality": "Italian-American",
+    "catchphrase": "2... 3... 5... 7... 11... 13...",
+    "family": [
+      "Weather Report"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "09fdf142-c485-4944-8779-240c8e7b02bb",
+    "name": "Donatello Versus",
+    "japaneseName": "ドナテロ・ヴェルサス",
+    "image": "donatello.png",
+    "abilities": [
+      "Under World"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I can't die here! I have a right to be happy!",
+    "family": [
+      "DIO",
+      "Ungalo",
+      "Rikiel",
+      "Giorno Giovanna"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "5b7ab2a0-1b7c-4e71-ba77-179814d6ec51",
+    "name": "Rikiel",
+    "japaneseName": "リキエル",
+    "image": "rikiel.webp",
+    "abilities": [
+      "Sky High"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I overcame my own heart! I'll never panic again... I'm going to reclaim my life, with my own hands! I'm Apollo !!!",
+    "family": [
+      "DIO",
+      "Ungalo",
+      "Donatello Versus",
+      "Giorno Giovanna"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "cebf0570-8656-40a2-8572-1038684d6b34",
+    "name": "Ungalo",
+    "japaneseName": "ウンガロ",
+    "image": "ungalo.png",
+    "abilities": [
+      "Bohemian Rhapsody"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "All I've done 'til now is wander around aimlessly, just sinking lower and lower without knowing why...but now I get it! I existed for this \"ability\"!",
+    "family": [
+      "DIO",
+      "Rikiel",
+      "Donatello Versus",
+      "Giorno Giovanna"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "e62ae07a-e61b-454b-9355-05124a09b53f",
+    "name": "The Green Baby",
+    "japaneseName": "緑色の赤ちゃん",
+    "image": "greenbaby.png",
+    "abilities": [
+      "Green",
+      "Green Grass of Home"
+    ],
+    "nationality": "unknown",
+    "catchphrase": null,
+    "family": [
+      "DIO"
+    ],
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "2ebd3deb-1142-4aa7-be9b-972159a97044",
+    "name": "Johngalli A",
+    "japaneseName": "ジョンガリ・A",
+    "image": "johngalli.png",
+    "abilities": [
+      "Manhattan Transfer",
+      "Marksmanship"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Meteorologists say the wind's movements are unpredictable. They have a point. But the wind isn't completely unreadable.",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "b0b3a648-6c31-4dd1-98ec-a199e1e2d5c3",
+    "name": "Sports Maxx",
+    "japaneseName": "スポーツ・マックス",
+    "image": "sportsmaxx.png",
+    "abilities": [
+      "Limp Bizkit",
+      "Zombie"
+    ],
+    "nationality": "American",
+    "catchphrase": "Listen... I'm gonna go ahead and suck your brains out, right now... And even if I rip out all the shit in your stomach and fill your empty skull with it, I won't be satisfied!!",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "a85b92ab-9a47-4e9e-8802-a89f3c3d05bd",
+    "name": "Miuccia Miuller (Miu Miu)",
+    "japaneseName": "ミューミューミュッチャー・ミューラー",
+    "image": "miucca.png",
+    "abilities": [
+      "Jail House Lock"
+    ],
+    "nationality": "American",
+    "catchphrase": "There's no one who can escape my Jail House Lock!!!",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "ee01450f-89f5-4707-bfde-348cb999ef02",
+    "name": "Miraschon",
+    "japaneseName": "ミラション",
+    "image": "miraschon.webp",
+    "abilities": [
+      "Marilyn Manson"
+    ],
+    "nationality": "American",
+    "catchphrase": "My name is Miraschon, prisoner number FE26789. You're at 87 throws, right? Your little game of catch, I'm willing to bet that it won't last 100 throws...",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "321d859d-a2a2-469c-80e0-fb232c27b929",
+    "name": "Lang Rangler",
+    "japaneseName": "ラング·ラングラー",
+    "image": "lang.png",
+    "abilities": [
+      "Jumpin' Jack Flash",
+      "Suction Cup hands/feet"
+    ],
+    "nationality": "American",
+    "catchphrase": "I'm gonna carve your f*ckin epitaph on your pretty white skin!",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "3fa5d9fa-089b-4575-ae16-c55b56d11f5b",
+    "name": "Kenzou",
+    "japaneseName": "ケンゾー",
+    "image": "kenzou.png",
+    "abilities": [
+      "Dragon's Dream"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "You there! Do you want to drown too?",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "64ad30ac-0db6-4f84-9f7f-f3034d20d7a6",
+    "name": "D an G",
+    "japaneseName": "DアンG",
+    "image": "DG.webp",
+    "abilities": [
+      "Yo-Yo Ma"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "No one told me that this would happen... My job was supposed to be simple... \"Kill Jolyne Cujoh\". That's what I was told, and that's what I'm gonna do...",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "78585f59-1c42-49d1-913c-cb9acb250ee2",
+    "name": "Guccio",
+    "japaneseName": "グッチョ",
+    "image": "guccio.png",
+    "abilities": [
+      "Survivor"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I don't know what you're talking about... Hahh, hahh... My name is Guccio... I... just don't want to become a plant... Please, I'm so scared...",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "fb9ef55e-d5ec-4e6e-b8a5-243ccf9e3234",
+    "name": "Viviano Westwood",
+    "japaneseName": "ヴィヴァーノ・ウエストウッド",
+    "image": "viviano.webp",
+    "abilities": [
+      "Planet Waves",
+      "Wrestling"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I'm gonna release my fury, I'm gonna snap and release everything I've got! I'm gonna release it, release it, release it! I'm the strongest!",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "ecc7af1e-e536-4059-9d92-26351323cb1d",
+    "name": "Thunder McQueen",
+    "japaneseName": "サンダー・マックイイーン",
+    "image": "thunder.webp",
+    "abilities": [
+      "Highway to Hell"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I feel like dying.",
+    "family": null,
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "57c093d6-8464-4463-990b-68bf986c04fd",
+    "name": "Johnny Joestar",
+    "japaneseName": "ジョニィ・ジョースター",
+    "image": "johnny.png",
+    "abilities": [
+      "Spin",
+      "Tusk",
+      "Horseriding",
+      "Intelligence",
+      "Marksmanship"
+    ],
+    "nationality": "American",
+    "catchphrase": "It has, truly, been a roundabout path...",
+    "family": [
+      "George Joestar I",
+      "Nicholas Joestar",
+      "Rina Higashikata"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "14e04268-332e-4e27-9d99-c05972d9eabe",
+    "name": "Gyro Zeppeli",
+    "japaneseName": "ジャイロ・ツェペリ",
+    "image": "gyro.png",
+    "abilities": [
+      "Spin",
+      "Ball Breaker",
+      "Scan",
+      "Saint's Corpse",
+      "Horseriding",
+      "Intelligence",
+      "Medicine",
+      "Anatomy",
+      "Surgery"
+    ],
+    "nationality": "Neapolitan",
+    "catchphrase": "Nyo ho ho ho~",
+    "family": [
+      "Gregorio Zeppeli"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "38f13a70-d9aa-4a94-8681-1f1a37c47cec",
+    "name": "Lucy Steel",
+    "japaneseName": "ルーシー・スティール",
+    "image": "lucy.png",
+    "abilities": [
+      "Ticket to Ride",
+      "Lip Reading"
+    ],
+    "nationality": "American",
+    "catchphrase": "If you're going to plan a race, it should be across the entire American continent! And the winnings should be huge! Like, $50,000,000! Real dreams should be that big!",
+    "family": [
+      "Steven Steel"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "ea72cb74-7db5-451f-bccd-5cbc0125832b",
+    "name": "Steven Steel",
+    "japaneseName": "スティーブン・スティール",
+    "image": "steven.webp",
+    "abilities": [
+      "Promoting",
+      "Horse Riding"
+    ],
+    "nationality": "American",
+    "catchphrase": "There is no such thing as failure in this race! There are only adventurers!",
+    "family": [
+      "Lucy Steel"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "987a3804-c1b9-4ba0-bcfe-6027d9f897e5",
+    "name": "Hot Pants",
+    "japaneseName": "ホット・パンツ",
+    "image": "hotpants.webp",
+    "abilities": [
+      "Cream Starter",
+      "Horse Riding"
+    ],
+    "nationality": "American",
+    "catchphrase": "The only thing that can soothe and cleanse my \"sin\" is that corpse...",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "7b113f70-2064-46ce-a657-13b3f2acb940",
+    "name": "Mountain Tim",
+    "japaneseName": "マウンテン・ティム",
+    "image": "mountain.png",
+    "abilities": [
+      "Oh! Lonesome Me",
+      "Horse Riding",
+      "Equestrianism"
+    ],
+    "nationality": "American",
+    "catchphrase": "I was never expecting to die on a bed. I'm a cowboy. All I wanted was a place to come home to... just a place to return to after my journeys...",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "9ae05edf-1e56-4da8-8028-36b7be9c19b3",
+    "name": "Diego \"Dio\" Brando",
+    "japaneseName": "ディエゴ・ブランドー",
+    "image": "diego.png",
+    "abilities": [
+      "Scary Monsters",
+      "Horse Riding"
+    ],
+    "nationality": "British",
+    "catchphrase": "I will stand above that flock of pigeons and I will control them.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "f3258e41-471a-4ffa-8ebd-d617e36bf757",
+    "name": "Wekapipo",
+    "japaneseName": "ウェカピポ",
+    "image": "wekapipo.png",
+    "abilities": [
+      "Spin",
+      "Wrecking Ball"
+    ],
+    "nationality": "Neopolitan",
+    "catchphrase": "One step! It seems that I am one step \"ahead\" of you.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "8faea665-66e6-4bbe-b849-52711595f154",
+    "name": "Magent Magent",
+    "japaneseName": "マジェント・マジェント",
+    "image": "magent.webp",
+    "abilities": [
+      "20th Century Boy"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "I'm gonna have to teach you that people who don't have anythin' to lose are the scariest types, Mr. Smartass!",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "3adb83ee-fb1a-41fe-b676-da92e064b919",
+    "name": "Pocoloco",
+    "japaneseName": "ポコロコ",
+    "image": "pocoloco.webp",
+    "abilities": [
+      "Hey Ya!"
+    ],
+    "nationality": "African-American",
+    "catchphrase": "Pocoloco is the lucky guy after all!",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "e5c0376c-bd2f-406a-b4a1-a133f08fd2b6",
+    "name": "Funny Valentine",
+    "japaneseName": "ファニー・ヴァレンタイン",
+    "image": "valentine.png",
+    "abilities": [
+      "Dirty Deeds Done Dirt Cheap (D4C)"
+    ],
+    "nationality": "American",
+    "catchphrase": "My heart and actions are utterly unclouded. They are all those of \"Justice\".",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "b2968d63-e512-4045-bfcf-d43a401e2122",
+    "name": "Blackmore",
+    "japaneseName": "ブラックモア",
+    "image": "blackmore.webp",
+    "abilities": [
+      "Catch the Rainbow"
+    ],
+    "nationality": "American",
+    "catchphrase": "Scuse me (すいませェん Suimasēn)",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "ef056edc-79bb-497f-8478-62e11076b3bf",
+    "name": "Mike O.",
+    "japaneseName": "マイク・オー",
+    "image": "mikeo.webp",
+    "abilities": [
+      "Tubular Bells"
+    ],
+    "nationality": "African-American",
+    "catchphrase": "Your sentence to torture is now repealed! Now! Immediately! You are to be executed!",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "e435010a-388f-4588-88cd-1cb26ea190c9",
+    "name": "Ringo Roadagain",
+    "japaneseName": "リンゴォ・ロードアゲイン",
+    "image": "ringo.png",
+    "abilities": [
+      "Mandom",
+      "Gunsliging"
+    ],
+    "nationality": "American",
+    "catchphrase": "Welcome to the True Man's World...",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "42edc123-028d-4697-928b-ddc3d083506a",
+    "name": "Axl RO",
+    "japaneseName": "アクセル・RO",
+    "image": "axlro.webp",
+    "abilities": [
+      "Civil War"
+    ],
+    "nationality": "American",
+    "catchphrase": "People must sacrifice something in order to advance.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "21aa276b-3b9d-4640-881f-25b87f178d53",
+    "name": "Dr. Ferdinand",
+    "japaneseName": "フェルディナンド博士",
+    "image": "ferdinand.webp",
+    "abilities": [
+      "Scary Monsters"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "\"Respect\" is \"Prosperity\"!",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "6675741f-70ec-438a-b1a1-8637d7d28228",
+    "name": "D-I-S-C-O",
+    "japaneseName": "ディ・ス・コ",
+    "image": "disco.webp",
+    "abilities": [
+      "Chocolate Disco"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "\"Chocolate Disco.\" That's all I'm going to say.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "568f0ef6-9ab5-4483-afec-5867c08bd51f",
+    "name": "Eleven Men",
+    "japaneseName": "ディ・ス・コ",
+    "image": "elevenmen.webp",
+    "abilities": [
+      "Tatoo You!"
+    ],
+    "nationality": "unknown",
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "7fd90f5a-e5ca-400b-9862-e5cbbad20188",
+    "name": "Pork Pie Hat Kid",
+    "japaneseName": "ポーク・パイ・ハット小僧",
+    "image": "porkpie.webp",
+    "abilities": [
+      "Wired"
+    ],
+    "nationality": "American",
+    "catchphrase": null,
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "f62778a9-a4b4-49cf-b9d0-8591506b09a4",
+    "name": "Sandman",
+    "japaneseName": "砂男",
+    "image": "sandman.jpg",
+    "abilities": [
+      "In a Silent Way",
+      "Running"
+    ],
+    "nationality": "Native American",
+    "catchphrase": "I'll cross the continent and win with my feet alone.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "b8f4c9db-a05e-4576-8060-e44e96680cb8",
+    "name": "Benjamin Boom Boom",
+    "japaneseName": "ベンジャミン・ブンブーン",
+    "image": "benjamin.webp",
+    "abilities": [
+      "Tomb of the Boom 1"
+    ],
+    "nationality": "American",
+    "catchphrase": "Shaddup, you idiot! Men don't cry!",
+    "family": [
+      "Andre Boom Boom",
+      "L.A. Boom Boom"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "9c0e19e4-1c29-426d-923f-15ce45b250cf",
+    "name": "Andre Boom Boom",
+    "japaneseName": "アンドレ・ブンブーン",
+    "image": "andre.png",
+    "abilities": [
+      "Tomb of the Boom 2"
+    ],
+    "nationality": "American",
+    "catchphrase": "D...Don't shoot! I mean no harm! I came here because I saw the fire!",
+    "family": [
+      "Benjamin Boom Boom",
+      "L.A. Boom Boom"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "c0a8dad8-1788-4ab6-9eee-c93824031955",
+    "name": "L.A. Boom Boom",
+    "japaneseName": "L.A. ブンブーン",
+    "image": "la.webp",
+    "abilities": [
+      "Tomb of the Boom 3"
+    ],
+    "nationality": "American",
+    "catchphrase": "How dare you do that to Daddy! How dare you! I'll tear through your arteries!",
+    "family": [
+      "Benjamin Boom Boom",
+      "Andre Boom Boom"
+    ],
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "554b02a2-4b23-442f-b21c-2e412d03b073",
+    "name": "Mrs. Robinson",
+    "japaneseName": "ミセス・ロビンスン",
+    "image": "robinson.png",
+    "abilities": [
+      "Insect Colony"
+    ],
+    "nationality": "Mexican",
+    "catchphrase": "Take this! I will not allow anyone in this race to run ahead of me!",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "7eaf1a36-a475-4d97-81da-46b32702ee8c",
+    "name": "Oyecomova",
+    "japaneseName": "オエコモバ",
+    "image": "oyecomova.webp",
+    "abilities": [
+      "Boku no Rhythm wo Kiitekure",
+      "Bomb Making"
+    ],
+    "nationality": "Napoletan",
+    "catchphrase": "My skill with explosives has become a special ability... I take this as a mission from God!",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "09548d65-ce30-4a27-bb9f-d0960c946d8e",
+    "name": "Sugar Mountain",
+    "japaneseName": "シュガー・マウンテン",
+    "image": "sugarmountain.jpg",
+    "abilities": [
+      "Sugar Mountain"
+    ],
+    "nationality": "unknown",
+    "catchphrase": "Those who are willing to lose... they're the ones who ultimately gain everything.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run",
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "929a84ec-3b69-457b-b7c2-ba2406a39130",
+    "name": "Jesus",
+    "japaneseName": "イエス",
+    "image": "jesus.webp",
+    "abilities": [
+      "Saint's Corpse"
+    ],
+    "nationality": "Galilean",
+    "catchphrase": "If your heart is wavering, do not shoot; Because then a new path will be open for you.",
+    "family": null,
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "bac448da-b732-49ab-9d09-38cb589a677d",
+    "name": "Josuke Higashikata (Fusion)",
+    "japaneseName": "東方 定助",
+    "image": "josuke8.webp",
+    "abilities": [
+      "Soft & Wet",
+      "Sight",
+      "Hand-to-Hand Combat",
+      "Intelligence"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Who the hell am I?",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Daiya Higashikata",
+      "Joshu Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Hato Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "a42012ea-0d15-453a-ae5e-7345cf420cb4",
+    "name": "Yasuho Hirose",
+    "japaneseName": "広瀬康穂",
+    "image": "yasuho.png",
+    "abilities": [
+      "Paisley Park"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Finding those traces and going! Progressing beyond! That is my Stand... Paisley Park.",
+    "family": [
+      "Suzuyo Hirose"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "b9397027-4ada-400f-83a6-6f8bfd418c2c",
+    "name": "Rai Mamezuku",
+    "japaneseName": "豆銑礼",
+    "image": "rai.png",
+    "abilities": [
+      "Doggy Style",
+      "Horticulture"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I know I sound like a broken record but 89 YEARS OLD?!",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "616629c9-4a27-44eb-b569-9c17b50143dc",
+    "name": "Joshu Higashikata",
+    "japaneseName": "東方 常秀",
+    "image": "joshu.png",
+    "abilities": [
+      "Nut King Call"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "But I... don't even have that kind of talent, do I...? Even if it's just a little... I have something, right?",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Daiya Higashikata",
+      "Josuke Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Hato Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "cd38ef8a-98e6-48f6-a5bb-ebf59a787247",
+    "name": "Tsurugi Higashikata",
+    "japaneseName": "東方 つるぎ",
+    "image": "tsurugi.webp",
+    "abilities": [
+      "Paper Moon King"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "What do you need to be happy?",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Daiya Higashikata",
+      "Josuke Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Hato Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "37be0c9a-8546-495a-b2a3-1ee396159bea",
+    "name": "Norisuke Higashikata IV",
+    "japaneseName": "四代目東方憲助",
+    "image": "norisuke.png",
+    "abilities": [
+      "King Nothing"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Everything here has a natural \"flow\". Now \"flow\" is a metaphor, but if you don't fight it, you'll definitely reach your goal.",
+    "family": [
+      "Kaato Higashikata",
+      "Daiya Higashikata",
+      "Josuke Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Hato Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "2a330f20-abfc-4156-b6e2-a64ce1f2c999",
+    "name": "Kaato Higashikata",
+    "japaneseName": "東方 花都",
+    "image": "kaato.webp",
+    "abilities": [
+      "Space Trucking"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I don't have any regrets, but... That's because I'm going to take back the life I lost.",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Daiya Higashikata",
+      "Josuke Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Hato Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "4d0e194f-d559-4611-a8a0-98066a02abde",
+    "name": "Daiya Higashikata",
+    "japaneseName": "東方 大弥",
+    "image": "daiya.webp",
+    "abilities": [
+      "California King Bed"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Happiness is to share memories with someone.",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Josuke Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Hato Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "a361359c-53c6-4a93-9382-85cd22bc0ae0",
+    "name": "Hato Higashikata",
+    "japaneseName": "東方 鳩",
+    "image": "hato.png",
+    "abilities": [
+      "Walking Heart"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Oh, my! Someone dropped a magazine with such a pretty girl on the cover in a place like this?! Gee, I'm sure I've seen this person before some~~where... It's me~ muhuhuhuhu!",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Josuke Higashikata",
+      "Jobin Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Daiya Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "31e2d4e6-12a0-4eb1-92ae-a5213047e3f5",
+    "name": "Jobin Higashikata",
+    "japaneseName": "東方 常敏",
+    "image": "jobin.webp",
+    "abilities": [
+      "Speed King"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "This world, including Morioh, is crazy. And the one thing you can be certain of in this mad world... Is the one that wins is the one in the right.",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Josuke Higashikata",
+      "Hato Higashikata",
+      "Mitsuba Higashikata",
+      "Tsurugi Higashikata",
+      "Daiya Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "7dbdca59-6357-413d-8fb8-cc0b266f7376",
+    "name": "Mitsuba Higashikata",
+    "japaneseName": "東方 密葉",
+    "image": "mitsuba.png",
+    "abilities": [
+      "Awaking III Leaves"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "You want to mediate and \"smooth things over\"...? Don't spout that nonsense to me ! If you ever...lay a finger on Tsurugi without justifiable grounds again, I'll break those fingers without a second thought.",
+    "family": [
+      "Norisuke Higashikata IV",
+      "Kaato Higashikata",
+      "Josuke Higashikata",
+      "Hato Higashikata",
+      "Jobin Higashikata",
+      "Tsurugi Higashikata",
+      "Daiya Higashikata"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "3e1da7eb-5cf5-4fd8-b138-588e8a5c53cc",
+    "name": "Kei Nijimura",
+    "japaneseName": "虹村京",
+    "image": "kei.jpg",
+    "abilities": [
+      "Born This Way"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "You are you...I know that...It's the same for everyone in this world...you are your own self.",
+    "family": [
+      "Johnny Joestar",
+      "Yoshiteru Kira",
+      "Holy Joestar-Kira",
+      "Yoshikage Kira"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "8ea25ad1-5118-4d81-ab72-e86260fb57ca",
+    "name": "Yoshikage Kira",
+    "japaneseName": "吉良 吉影",
+    "image": "kira8.png",
+    "abilities": [
+      "Killer Queen",
+      "Sailing"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I'm going to steal one...one of those fruits...",
+    "family": [
+      "Johnny Joestar",
+      "Yoshiteru Kira",
+      "Holy Joestar-Kira",
+      "Kei Nijimura"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": true
+  },
+  {
+    "id": "676ff0e5-ecbf-4782-a1c4-f09508582c8d",
+    "name": "Josefumi Kujo",
+    "japaneseName": "吉良 吉影",
+    "image": "josefumi.png",
+    "abilities": [
+      "Soft & Wet",
+      "Horticulture"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "If I can be even a little help to Holy.....That's my precious image of happiness.",
+    "family": [
+      "Sadafumi Kujo",
+      "Kiyomi Kujo"
+    ],
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "61e6a865-5fbc-41d5-bb9b-6e440835a9da",
+    "name": "Karera Sakunami",
+    "japaneseName": "作並 カレラ",
+    "image": "kakera.png",
+    "abilities": [
+      "Love Love Deluxe"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Living your life so your now is a treasured, fun, wonderful experience...that's happiness.",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": true
+  },
+  {
+    "id": "de9ff1ad-edf3-47b3-b6cc-e1abeaf88957",
+    "name": "Tamaki Damo",
+    "japaneseName": "田最 環",
+    "image": "tamaki.png",
+    "abilities": [
+      "Vitamin C",
+      "Rock Physiology"
+    ],
+    "nationality": null,
+    "catchphrase": "Do not underestimate me.",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "2adc64c2-a148-4d6e-826a-6e5b9b13222c",
+    "name": "Yotsuyu Yagiyama",
+    "japaneseName": "八木山夜露",
+    "image": "yotsuyu.png",
+    "abilities": [
+      "I Am a Rock",
+      "Rock Physiology"
+    ],
+    "nationality": null,
+    "catchphrase": "I Am a Rock. I am an Island.",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "b9a73642-aaf9-4962-94e4-94dd1e0037e6",
+    "name": "Aisho Dainenjiyama",
+    "japaneseName": "大年寺山愛唱",
+    "image": "aisho.webp",
+    "abilities": [
+      "Doobie Wah!",
+      "Rock Physiology"
+    ],
+    "nationality": null,
+    "catchphrase": "It is quite an unfortunate thing that's happened to you...",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
+    "name": "A. Phex Brothers",
+    "japaneseName": "エイ・フェックス兄弟",
+    "image": "aphex.webp",
+    "abilities": [
+      "Schott Key No.1 and Schott Key No.2",
+      "Rock Physiology",
+      "Soccer"
+    ],
+    "nationality": null,
+    "catchphrase": "How far are you gonna go? Until he tells us who he is...? Until he's a corpse. Do what you have to do, that's what matters here.",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "a48039a7-e5cb-447d-bdb7-52144480a775",
+    "name": "Dolomite",
+    "japaneseName": "ドロミテ",
+    "image": "dolomite.png",
+    "abilities": [
+      "Blue Hawaii",
+      "Rock Physiology"
+    ],
+    "nationality": null,
+    "catchphrase": "The Blue Lagoon... Man, I'd love to really go there. That's my dream...",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": true,
+    "isHuman": false
+  },
+  {
+    "id": "aef856e7-b07d-4780-a747-b6e09fa9e093",
+    "name": "Urban Guerrilla",
+    "japaneseName": "アーバン・ゲリラ, 下里 良",
+    "image": "urban.png",
+    "abilities": [
+      "Brain Storm",
+      "Doremifasolati Do",
+      "Rock Physiology"
+    ],
+    "nationality": null,
+    "catchphrase": "You people... when you got careless, you ended up being forever below the rocks... the Rock Humans that is!",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "a92dcc36-9f9f-4265-ba47-c51776a4a3bb",
+    "name": "Poor Tom",
+    "japaneseName": "プアー・トム",
+    "image": "poortom.png",
+    "abilities": [
+      "Ozon Baby",
+      "Rock Physiology"
+    ],
+    "nationality": null,
+    "catchphrase": "These loose women, what'm I gonna do~",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "0dbcffcc-4352-490f-a968-5b7a0daa6afa",
+    "name": "Wu Tomoki",
+    "japaneseName": "羽 伴毅",
+    "image": "wutomoki.png",
+    "abilities": [
+      "Doctor Wu",
+      "Rock Physiology"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Wu Tomoki does not fail.",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "32940d56-3037-4669-9fe2-d60d616cac3e",
+    "name": "Satoru Akefu",
+    "japaneseName": "明負 悟",
+    "image": "satoru.png",
+    "abilities": [
+      "Wonder of U"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Whomever it may be, they would be always better off without pursuing me...",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "bb8c6dd5-1f54-43ba-a925-f06ec5f5a706",
+    "name": "Tooru",
+    "japaneseName": "透龍",
+    "image": "tooru.png",
+    "abilities": [
+      "Wonder of U",
+      "Rock Physiology"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "Yasuho-chan, it looks like we ran into each other at a good time... Seems that's always the way with us...",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": false
+  },
+  {
+    "id": "bba2b673-efb0-4f69-9b3b-d453a09d1dd8",
+    "name": "Ojiro Sasame",
+    "japaneseName": "笹目桜二郎",
+    "image": "sasame.png",
+    "abilities": [
+      "Fun Fun Fun"
+    ],
+    "nationality": "Japanese",
+    "catchphrase": "I'm fresh outta business cards but the name's Ojiro, nice ta meetcha.",
+    "family": null,
+    "chapter": [
+      "Jojolion"
+    ],
+    "living": false,
+    "isHuman": true
+  }
+]

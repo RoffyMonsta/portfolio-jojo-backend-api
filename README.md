@@ -1,0 +1,1 @@
+This is a JOJO API containing characters and stands info through parts 1-8

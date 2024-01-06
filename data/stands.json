@@ -1,0 +1,2512 @@
+[
+  {
+    "id": "1a64eeaa-0004-4cb3-8bdb-affd498ab670",
+    "name": "The World",
+    "alternateName": null,
+    "japaneseName": "ザ・ワールド(世界)",
+    "image": "theworld.png",
+    "standUser": "9740d105-c4b6-4bdf-9c91-4353e2f92065",
+    "chapter": [
+      "Stardust Crusaders",
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Time Stop",
+      "Super Speed",
+      "Super Strength"
+    ],
+    "battlecry": "MUDAMUDAMUDA"
+  },
+  {
+    "id": "29f6b0a3-bab0-4f64-a91f-184dd7189f0f",
+    "name": "Hermit Purple",
+    "alternateName": null,
+    "japaneseName": "ハーミットパープル（隠者の紫)",
+    "image": "hermitpurple.webp",
+    "standUser": "e07f8ded-704c-47ab-b7d1-714d77c44087",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Transmit Messages",
+      "Grappling",
+      "Creating Images"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "74aa24bf-bb08-4abb-b8d5-b5df3a727d56",
+    "name": "Star Platinum",
+    "alternateName": null,
+    "japaneseName": "スタープラチナ（星の白金)",
+    "image": "starplatinum.png",
+    "standUser": "ad6126ea-33c0-489d-8d7b-4135f197ff08",
+    "chapter": [
+      "Stardust Crusaders",
+      "Diamond Is Unbreakable",
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Time Stop",
+      "Super Speed",
+      "Super Strength",
+      "Breath",
+      "Star-Finger"
+    ],
+    "battlecry": "ORAORAORAORAORAORA"
+  },
+  {
+    "id": "7ba3c76f-e298-4815-b9d8-a969623bb32a",
+    "name": "Magician's Red",
+    "alternateName": null,
+    "japaneseName": "マジシャンズレッド（魔術師の赤)",
+    "image": "magicianred.png",
+    "standUser": "3dc8b333-ce07-443c-acf0-c5eea14f5699",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Pyrokinesis",
+      "Super Strength",
+      "Super Speed",
+      "Cross Fire Hurricane",
+      "Red Bind",
+      "Life Detector"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "7c419bfc-7a1e-47eb-a3b6-24e07c2ebbcd",
+    "name": "Hierophant Green",
+    "alternateName": null,
+    "japaneseName": "ハイエロファントグリーン（法皇の緑)",
+    "image": "hierophantgreen.png",
+    "standUser": "89965ccb-b023-48ad-93e2-5c2d9dbbbc12",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Coiled Body",
+      "Marionette Controll",
+      "Emerald Splash"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "6b4c6d54-750f-491c-86fc-a7f2ff9bfb18",
+    "name": "Silver Chariot",
+    "alternateName": null,
+    "japaneseName": "シルバーチャリオッツ（銀の戦車)",
+    "image": "silverchariot.png",
+    "standUser": "02018ef1-4eb4-4e5a-8d30-78f86d7acbf0",
+    "chapter": [
+      "Stardust Crusaders",
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Speed",
+      "Power",
+      "Precision",
+      "Armor",
+      "Sword Shot"
+    ],
+    "battlecry": "HORAHORAHORA"
+  },
+  {
+    "id": "28708f89-348f-40b8-8720-d2aa52b2711e",
+    "name": "The Fool",
+    "alternateName": null,
+    "japaneseName": "ザ・フール（愚者)",
+    "image": "thefool.webp",
+    "standUser": "f8514cd8-0945-4387-b499-123967a7ed63",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Sand Manifestation",
+      "Shapeshifting"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "a85fb2e9-8489-4f46-b83c-27552c1934d2",
+    "name": "Justice",
+    "alternateName": null,
+    "japaneseName": "ジャスティス（正義）",
+    "image": "justice.webp",
+    "standUser": "0bf3eb3b-a752-4175-898c-5c85ec96efc4",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Fog String Puppetry",
+      "Illusions"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "4ab4e8b1-4164-422b-955a-5428c9bec3ae",
+    "name": "Cream",
+    "alternateName": null,
+    "japaneseName": "クリーム",
+    "image": "cream.png",
+    "standUser": "94c490bf-0200-4028-ac25-a33a2277096b",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Void"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "2fba8397-4160-470c-bd07-7ede5b9439a4",
+    "name": "Emperor",
+    "alternateName": null,
+    "japaneseName": "エンペラー（皇帝)",
+    "image": "emperor.webp",
+    "standUser": "1a50f168-032c-4702-a283-5705ec1965a2",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Homing Bullets"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ce529caf-74e4-4478-b1ff-04b3b70d7a9d",
+    "name": "Hanged Man",
+    "alternateName": null,
+    "japaneseName": "ハングドマン（吊られた男)",
+    "image": "hangedman.png",
+    "standUser": "8dd9b41e-6017-4935-9735-0e16bd249f71",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Light Manifestation (reflections)",
+      "wrist knives"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "36f7f63f-f15c-4738-9325-adac96e90def",
+    "name": "Osiris",
+    "alternateName": null,
+    "japaneseName": "オシリス神",
+    "image": "osiris.webp",
+    "standUser": "d43d96b6-57bc-4626-8f96-15755a3b049d",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Soul Steal"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "db704ffa-4bcd-4718-90cd-14f6c5da7333",
+    "name": "Atum",
+    "alternateName": null,
+    "japaneseName": "アトゥム神",
+    "image": "atum.webp",
+    "standUser": "d34a7410-6acf-4edb-88af-8db732d9ea4a",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Soul Steal",
+      "Binary Soul Reading"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "54165d2d-ef18-4da3-86c2-30af7dc6b3a5",
+    "name": "Horus",
+    "alternateName": null,
+    "japaneseName": "ホルス神",
+    "image": "horus.webp",
+    "standUser": "63da4702-9ea4-40c8-ae87-d8b7bb8b9140",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Cryokinesis"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "10170330-35aa-4440-9bce-4119126d9d5e",
+    "name": "Geb",
+    "alternateName": null,
+    "japaneseName": "ゲブ神",
+    "image": "geb.png",
+    "standUser": "044c1a48-9c30-4aa8-8fc1-e41b0308f438",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Water Amorphism"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "93e7e988-6840-4bb3-8450-6d20d9e1ef14",
+    "name": "Bastet",
+    "alternateName": "Bast",
+    "japaneseName": "バステト女神",
+    "image": "bastet.webp",
+    "standUser": "7496491a-514f-40ac-9951-1325966d1235",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Magnetic Attraction"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "0c354b55-3490-4198-a6a1-e7e80f208c51",
+    "name": "Sethan",
+    "alternateName": "Set",
+    "japaneseName": "セト神",
+    "image": "sethan.webp",
+    "standUser": "60e77926-69af-46b5-ae83-567440227344",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Shadow Reflection",
+      "Age Regression"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "cb5b44c2-1b4e-4766-a542-7a5563487e2a",
+    "name": "Khnum",
+    "alternateName": null,
+    "japaneseName": "クヌム神",
+    "image": "khnum.webp",
+    "standUser": "0e0840ec-4e38-4145-aa14-8264c19d1437",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Transfiguration"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "cb5a590f-a008-44b1-8791-9416d3aacd7c",
+    "name": "Tohth",
+    "alternateName": null,
+    "japaneseName": "トト神",
+    "image": "tohth.png",
+    "standUser": "12ca337f-f68c-43e1-9e2a-97e4168de4f8",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Prediction"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "7118f07c-ce2d-402f-b17a-1dd3ed5557ca",
+    "name": "Anubis",
+    "alternateName": null,
+    "japaneseName": "アヌビス神",
+    "image": "anubis.png",
+    "standUser": "eb62f8b6-5d77-43f2-b0e5-ca9db4931c18",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Adaptation",
+      "Selective Intangibility",
+      "Mind Control"
+    ],
+    "battlecry": "USHYAAAAA!"
+  },
+  {
+    "id": "a8a5cbb8-b51a-452a-a5ef-92f64c1352a6",
+    "name": "Tower of Gray",
+    "alternateName": null,
+    "japaneseName": "タワー・オブ・グレー（灰の塔)",
+    "image": "towerofgray.png",
+    "standUser": "570e6bc8-7602-4b1d-9403-36457dc5400d",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Secondary Jaw",
+      "High Speed"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "2239697e-e1a2-4704-a34c-724ded68ac0c",
+    "name": "Dark Blue Moon",
+    "alternateName": null,
+    "japaneseName": "ダークブルームーン（暗青の月)",
+    "image": "darkbluemoon.webp",
+    "standUser": "7524923d-28fd-4259-a714-b3549d2a5a1b",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Sharp Scales",
+      "Barnacles",
+      "Aquatic Prowess"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "67528d69-77da-466b-9611-7554b8902300",
+    "name": "Strength",
+    "alternateName": null,
+    "japaneseName": "ストレングス（力)",
+    "image": "strength.webp",
+    "standUser": "9c06ba28-d5ea-449a-8787-9682b7eac1ed",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Ship Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "c6180f09-d067-43a2-a819-32163321a884",
+    "name": "Ebony Devil",
+    "alternateName": null,
+    "japaneseName": "エボニーデビル（悪魔)",
+    "image": "ebonydevil.webp",
+    "standUser": "020d4136-a850-417d-8071-7aff69375908",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Hatered Amplification"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "4623ca6d-662b-4871-bb96-e2047e0dbf61",
+    "name": "Yellow Temperance",
+    "alternateName": null,
+    "japaneseName": "イエローテンパランス（黄の節制)",
+    "image": "yellowtemperance.png",
+    "standUser": "b6bddb3a-1448-4e3d-aeea-a483cfec3ccd",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Assimilation",
+      "Physical Imperviousness",
+      "Appearance Replication"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "190b2607-fc7b-4957-9e03-3ecc08bed022",
+    "name": "Empress",
+    "alternateName": null,
+    "japaneseName": "エンプレス（女帝)",
+    "image": "empress.webp",
+    "standUser": "a5c72fe4-263f-4075-8a5b-10fadab4ce26",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Parasitism",
+      "Flesh Disguise"
+    ],
+    "battlecry": "CHUMIMI"
+  },
+  {
+    "id": "acebcfc7-9317-4227-809b-8f70f6507a7d",
+    "name": "Wheel of Fortune",
+    "alternateName": null,
+    "japaneseName": "ホウィール・オブ・フォーチュン（運命の車輪)",
+    "image": "wheel.png",
+    "standUser": "60277ca6-ca3e-48ea-9923-22f71b144096",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Transformation from Confidence",
+      "Gasoline Bullets",
+      "Radio Comunication"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f9387810-3772-42ca-9b16-aea6126dbefc",
+    "name": "Lovers",
+    "alternateName": null,
+    "japaneseName": "ラバーズ（恋人)",
+    "image": "lovers.png",
+    "standUser": "a506884c-1634-4dfb-8a14-a329cab9d232",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Pain Synchronization",
+      "Organic Waste Clones",
+      "Spores Cultivation",
+      "Range"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "55b3acf5-c388-4c57-95f0-018b048db707",
+    "name": "Sun",
+    "alternateName": null,
+    "japaneseName": "サン（太陽)",
+    "image": "sun.webp",
+    "standUser": "51965e29-6ffb-4ad5-a6d8-914194ccce9b",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Sun Replica",
+      "Lasers"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "c2156ef5-3e25-4268-a1a9-c95b86591004",
+    "name": "Death Thirteen",
+    "alternateName": null,
+    "japaneseName": "デスサーティーン（死神13)",
+    "image": "death13.webp",
+    "standUser": "9efe490b-feb8-4dad-9627-9190490870ab",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Dreamworld Control"
+    ],
+    "battlecry": "Lo-Li-Ho"
+  },
+  {
+    "id": "393af910-fecd-4bdd-87c4-bf1c35185ad9",
+    "name": "Judgement",
+    "alternateName": null,
+    "japaneseName": "ジャッジメント（審判)",
+    "image": "judgement.webp",
+    "standUser": "9ac4561b-4de2-423f-8299-0d79e8d9ea16",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "False Wish Granting"
+    ],
+    "battlecry": "HAIL 2U!"
+  },
+  {
+    "id": "e77fb1b5-bac7-4570-86f4-d199bd2f7813",
+    "name": "High Priestess",
+    "alternateName": null,
+    "japaneseName": "ハイプリエステス（女教皇)",
+    "image": "highpriestess.png",
+    "standUser": "fb3a5a88-d875-41c5-b7a9-1552d5e521c1",
+    "chapter": [
+      "Stardust Crusaders"
+    ],
+    "abilities": [
+      "Mineral Posession and Reformation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "10e6c021-dba1-4ba6-b1f9-adf9af169121",
+    "name": "Crazy Diamond",
+    "alternateName": "Shining Diamond",
+    "japaneseName": "クレイジー・ダイヤモンド",
+    "image": "crazydiamond.png",
+    "standUser": "f91880e4-c53e-41a1-8388-51b9cfaea01f",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Super Strength",
+      "Super Speed",
+      "Precision",
+      "Restoration"
+    ],
+    "battlecry": "DORARARA"
+  },
+  {
+    "id": "bc9d8c9e-9139-4a39-9fb6-2e38223c9534",
+    "name": "The Hand",
+    "alternateName": null,
+    "japaneseName": "ザ・ハンド（手)",
+    "image": "thehand.png",
+    "standUser": "61c28c33-f78e-4b32-af23-ac60cb785063",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Erasure"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "4e7bc6c2-b3d4-43f3-8357-2a3ae8badab0",
+    "name": "Bad Company",
+    "alternateName": "Worse Company",
+    "japaneseName": "バッド・カンパニー (極悪中隊)",
+    "image": "badcompany.webp",
+    "standUser": "e2654a05-1402-4b27-99ec-789295c669c4",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Military Firepower"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "1ecdc649-790a-4014-8b01-adfb236908b7",
+    "name": "Echoes",
+    "alternateName": "Reverb",
+    "japaneseName": "エコーズ",
+    "image": "echoes.png",
+    "standUser": "25a54a29-317f-43f5-8d61-2b417563a4ea",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "ACT 1: Sound Generation",
+      "ACT 2: Sound Effects",
+      "ACT 3: Freeze"
+    ],
+    "battlecry": "Ok, Master! Let's kill da ho! Beeetch!"
+  },
+  {
+    "id": "a528adeb-53e3-4ab7-aedf-f42894e163d9",
+    "name": "Heaven's Door",
+    "alternateName": null,
+    "japaneseName": "ヘブンズ・ドアー（天国への扉)",
+    "image": "heavensdoor.png",
+    "standUser": "b3e52b76-fa41-4259-acaa-7a76f47b9476",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Book Transmutation",
+      "Memory Removal",
+      "Written-in Commands"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "27c4e135-d9a5-43b7-a49c-824d7a14a701",
+    "name": "Harvest",
+    "alternateName": null,
+    "japaneseName": "ハーヴェスト",
+    "image": "harvest.webp",
+    "standUser": "f7485d42-632b-4a83-b04b-6b2c5ad77be2",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Strength in Numbers (500)",
+      "Persistence",
+      "Harvesting",
+      "Hypodermic Needle",
+      "Range"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "c97d19ae-1e1b-4251-9efd-1ec6f808a24f",
+    "name": "Earth Wind and Fire",
+    "alternateName": "Terra Ventus",
+    "japaneseName": "アース・ウインド・アンド・ファイヤー",
+    "image": "earthwind.jpg",
+    "standUser": "b6d478f2-39da-479d-a9d6-ba0839ab0dfb",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Shapeshifting"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "452e69be-e476-455b-92f2-c1f82c97f311",
+    "name": "Love Deluxe",
+    "alternateName": null,
+    "japaneseName": "ラブ・デラックス",
+    "image": "lovedeluxe.png",
+    "standUser": "9625c1d4-ea22-4851-a404-082268c3a0bc",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Hair Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "244ca844-54ac-4e4b-b1b0-2b4cb05a550c",
+    "name": "Highway Star",
+    "alternateName": "Highway Go Go",
+    "japaneseName": "ハイウェイ・スター",
+    "image": "highwaystar.png",
+    "standUser": "64fd26d9-d118-4a20-9e55-c9c04ec23d7d",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Room Creation",
+      "Lifeforce Steal",
+      "Body Dismantlement",
+      "Enhanced sense of Smell",
+      "Speed",
+      "Range"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "24e3e547-22c2-4910-a85a-5461adf8b156",
+    "name": "Surface",
+    "alternateName": "Show Off",
+    "japaneseName": "サーフィス（うわっ面)",
+    "image": "surface.webp",
+    "standUser": "1b575be4-68d4-41eb-8795-c6e24d2f4925",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Mimicry",
+      "Forced Synchronization"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "dfb7429c-3d5e-44de-bbdc-3ecffceda66f",
+    "name": "Pearl Jam",
+    "alternateName": null,
+    "japaneseName": "パール・ジャム",
+    "image": "pearljam.webp",
+    "standUser": "1233c0f6-fe79-4907-9956-e994150735d7",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Curative Cooking"
+    ],
+    "battlecry": "MESHAA"
+  },
+  {
+    "id": "ad034174-696d-4cb5-b884-b660c088ec62",
+    "name": "Cinderella",
+    "alternateName": null,
+    "japaneseName": "シンデレラ",
+    "image": "cinderella.png",
+    "standUser": "2b0df096-7ce9-4973-8d93-f77bb919a708",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Body Part Replacement",
+      "Permanent Body Replacement"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "8dd95a0b-0646-477a-ab9d-f255ad631789",
+    "name": "Killer Queen",
+    "alternateName": "Deadly Queen",
+    "japaneseName": "キラークイーン",
+    "image": "killerqueen.webp",
+    "standUser": "9438aa54-26a7-46c5-a345-3013cd8819e6",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Bomb Transmutation",
+      "Air Bomb Transmutation",
+      "Sheer Heart Attack",
+      "Bites the Dust"
+    ],
+    "battlecry": "SHIBABABA! SHIBOBOBO!"
+  },
+  {
+    "id": "810bfb0b-a3e8-4e64-9520-9a537c715d79",
+    "name": "Atom Heart Father",
+    "alternateName": "Heart Father",
+    "japaneseName": "アトム・ハート・ファーザー",
+    "image": "yoshihorokira.webp",
+    "standUser": "32b93a32-2a94-4168-99e4-e0fd7ce26d8f",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Supernatural Photography"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ddf0ff46-f740-4426-aa8c-fb508d92453a",
+    "name": "Stray Cat",
+    "alternateName": null,
+    "japaneseName": "ストレイ・キャット (猫草)",
+    "image": "straycat.png",
+    "standUser": "4eefaa34-ef3d-4240-8404-174563417ea2",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Reincarnation",
+      "Air Manipulation",
+      "Plant/Cat Constitution"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "04c11148-3913-4704-8e8e-ee1386cc72b0",
+    "name": "Red Hot Chili Pepper",
+    "alternateName": "Chili Pepper",
+    "japaneseName": "レッド・ホット・チリ・ペッパー",
+    "image": "chilipepper.png",
+    "standUser": "a3d8f416-fbce-4da0-ae15-660af4e58974",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Electricity Absorption",
+      "Electrical Transfer",
+      "Speed"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "b2f25105-4950-450a-8d80-60e7a5dc5cc7",
+    "name": "Aqua Necklace",
+    "alternateName": null,
+    "japaneseName": "アクア・ネックレス（水の首飾り)",
+    "image": "aquanecklace.webp",
+    "standUser": "472c1e36-d2a9-4d1d-8f0c-5a2f69ec2f77",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Liquid Form",
+      "Possession"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "e5b8ff00-6396-4c45-832b-9f556a38bc20",
+    "name": "Ratt",
+    "alternateName": null,
+    "japaneseName": "ラット",
+    "image": "ratt.webp",
+    "standUser": "9068b097-6a5d-4576-947a-cc1f5be83214",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Melting Darts"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "03a62c31-bf26-44cd-8b0f-c0283fb0ef78",
+    "name": "Boy II Man",
+    "alternateName": null,
+    "japaneseName": "ボーイ・II・マン",
+    "image": "boy2man.webp",
+    "standUser": "02ed5697-eb9f-47ee-bbbf-f47197fea3b8",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Energy Theft"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "61e504fc-ddf6-4b7f-8fb1-781d2f3b53c0",
+    "name": "Super Fly",
+    "alternateName": null,
+    "japaneseName": "スーパーフライ",
+    "image": "superfly.webp",
+    "standUser": "70608f1f-e75e-4d67-9e0e-7c0fb9d2c8a5",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Occupant Restriction",
+      "Damage Reflection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "074700d7-3f63-48f6-b270-d5dc38ef2388",
+    "name": "Enigma",
+    "alternateName": "Misterioso",
+    "japaneseName": "エニグマ",
+    "image": "enigma.png",
+    "standUser": "824d966e-ca69-4140-9276-cf24bb68e1c1",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Paper Seal"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "af40355d-7489-4859-b2e6-3426b703c07d",
+    "name": "Cheap Trick",
+    "alternateName": "Cheap Trap",
+    "japaneseName": "チープ・トリック",
+    "image": "cheaptrick.png",
+    "standUser": "36257af0-4659-4f2c-9b20-419aa7c91b5c",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Attachement",
+      "Universal Speech"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "e92b0913-2947-497a-bd38-5813af76cc69",
+    "name": "The Lock",
+    "alternateName": null,
+    "japaneseName": "錠前",
+    "image": "lock.webp",
+    "standUser": "bd46d956-c0c9-4e3f-9a0f-f1c8dd949270",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Guilt Increase",
+      "Lie Detection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "d90e8616-4e6d-4ed2-8fc1-c7e0951cfb57",
+    "name": "Achtung Baby",
+    "alternateName": "Invisible Baby",
+    "japaneseName": "アクトン・ベイビー",
+    "image": "shizuka.webp",
+    "standUser": "aab402b6-bb9d-4b37-bc0a-026e0a1caf0a",
+    "chapter": [
+      "Diamond is Unbreakable"
+    ],
+    "abilities": [
+      "Invisibility"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "a31ab51b-e16a-4349-b55a-08eefbc8a363",
+    "name": "Gold Experience",
+    "alternateName": "Golden Wind",
+    "japaneseName": "ゴールド・エクスペリエンス (黄金体験)",
+    "image": "goldexperience.png",
+    "standUser": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Create Life",
+      "Life Shot",
+      "Flesh/Organ Creation",
+      "Life Sensor"
+    ],
+    "battlecry": "MUDA MUDA MUDA"
+  },
+  {
+    "id": "804d7383-de62-4a0e-8ad3-f7afff109ff9",
+    "name": "Gold Experience Requiem",
+    "alternateName": "Golden Wind Requiem",
+    "japaneseName": "ゴールド・エクスペリエンス・レクイエム",
+    "image": "goldrequiem.png",
+    "standUser": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Return to Zero",
+      "Life Giver",
+      "Super Strength",
+      "Super Speed",
+      "Autonomy"
+    ],
+    "battlecry": "MUDA MUDA MUDA"
+  },
+  {
+    "id": "6428f93a-d946-4fa8-8877-df4e45494b50",
+    "name": "Sticky Fingers",
+    "alternateName": "Zipper Man",
+    "japaneseName": "スティッキィ・フィンガーズ",
+    "image": "stickyfingers.png",
+    "standUser": "d6a7e82e-3a52-4eed-8dd0-6f9be38677dd",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Zippers"
+    ],
+    "battlecry": "ARI, ARI, ARI, Arriverderci!"
+  },
+  {
+    "id": "382f0c94-c7ff-4d51-a293-fb7d330a45e1",
+    "name": "Moody Blues",
+    "alternateName": "Moody Jazz",
+    "japaneseName": "ムーディー・ブルース",
+    "image": "moodyblues.png",
+    "standUser": "0edc86c0-6a1a-4747-bf3b-41444d86444c",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Chronological Rebroadcasting"
+    ],
+    "battlecry": "URYAAAAA!"
+  },
+  {
+    "id": "5b9c5ab3-fcbe-4081-9c0c-0184fe2ae449",
+    "name": "Sex Pistols",
+    "alternateName": "Six Bullets",
+    "japaneseName": "セックス・ピストルズ",
+    "image": "sexpistols.png",
+    "standUser": "e7031d0f-54e8-400b-b46c-3fb30d3b11dd",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Bullet Control",
+      "Deflection",
+      "Enhanced Perception",
+      "Enhanced Reloading",
+      "Autonomy",
+      "Persistence"
+    ],
+    "battlecry": "PASS PASS PASS! YEE-HAW!"
+  },
+  {
+    "id": "f1c06313-7b89-49da-8880-f08d864f7f65",
+    "name": "Aerosmith",
+    "alternateName": "Li'l Bomber",
+    "japaneseName": "エアロスミス",
+    "image": "aerosmith.png",
+    "standUser": "1ae6049e-48b4-468c-954b-833d6993570b",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Machine Guns and Bomb",
+      "Carbon Dioxide Radar"
+    ],
+    "battlecry": "VOLAVOLAVOLA! VOLARE VIA!"
+  },
+  {
+    "id": "b505467f-3343-4499-bb3a-df68107dd8c2",
+    "name": "Purple Haze",
+    "alternateName": "Purple Smoke",
+    "japaneseName": "パープル・ヘイズ",
+    "image": "purplehaze.png",
+    "standUser": "b55ebf3e-6979-4885-91e8-2e51c6b65ce7",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Killer Infection"
+    ],
+    "battlecry": "UBASHAAAAAAA!"
+  },
+  {
+    "id": "5f1d2174-c5cd-433b-8b19-dfb36628b7d4",
+    "name": "Spice Girl",
+    "alternateName": "Spicy Lady",
+    "japaneseName": "スパイス・ガール",
+    "image": "spicegirl.png",
+    "standUser": "9538ba76-ca4a-45c4-9d96-bb6c723ff4d4",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Softening"
+    ],
+    "battlecry": "WANNABEEE~"
+  },
+  {
+    "id": "3e89a829-b680-4606-80df-434a9b0718ae",
+    "name": "Chariot Requiem",
+    "alternateName": "Requiem",
+    "japaneseName": "チャリオッツ・レクイエム",
+    "image": "chariotrequiem.png",
+    "standUser": "3d02e784-873b-471a-a18b-ddae283e8116",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Regeneration",
+      "Soul Manipulation",
+      "Grand Scale Soul Swapping",
+      "Stand Manipulation",
+      "Complete Alteration of All Life",
+      "Autonomy"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "89a5906a-60d0-48e1-89b0-db2f8470ad91",
+    "name": "Mr. President",
+    "alternateName": null,
+    "japaneseName": "ミスター・プレジデント",
+    "image": "mrpresident.png",
+    "standUser": "fee46aa1-b903-4d05-9f9c-8bf8e0374040",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Hidden Room"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "1967409a-6ef0-4704-84b2-21017dd21edd",
+    "name": "King Crimson",
+    "alternateName": "Emporer Crimson (Eulogy)",
+    "japaneseName": "キング・クリムゾン",
+    "image": "kingcrimson.png",
+    "standUser": "853fa6f7-302f-4d59-a220-3747cf73befe",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Superior Strength",
+      "Time Erasure",
+      "Epitaph (Time Prediction)"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "02299575-38c5-460b-a2d8-6fdf86235493",
+    "name": "Clash",
+    "alternateName": "Crush",
+    "japaneseName": "クラッシュ",
+    "image": "clash.png",
+    "standUser": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Liquid Warp"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "328fd894-9050-4dd9-9ce0-3a31fb1fb293",
+    "name": "Talking Head",
+    "alternateName": "Talking Mouth",
+    "japaneseName": "トーキング・ヘッド",
+    "image": "talkinghead.png",
+    "standUser": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "True-Statement Elimination",
+      "Tongue Control"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "057959fe-a2f8-455b-b863-71ef6c81d0cf",
+    "name": "Notorious B.I.G",
+    "alternateName": "Notorious Chase",
+    "japaneseName": "ノトーリアス・B・I・G",
+    "image": "notorious.png",
+    "standUser": "f459fb02-ed25-40f7-a823-ed7c51a5f209",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Post-Mortem Activation",
+      "Energy Absorption",
+      "Partial Symbiosis",
+      "Speed Detection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "b4d3e73a-1dcf-42af-974f-02152d589984",
+    "name": "Green Day",
+    "alternateName": "Green Tea",
+    "japaneseName": "グリーン・ディ",
+    "image": "greenday.png",
+    "standUser": "2f461448-ee6d-43ac-99a4-6697046aeca4",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Mold Infestation",
+      "Dismemberment Control"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "6875154e-4e5f-46d1-8c6e-1095baa2b991",
+    "name": "Oasis",
+    "alternateName": "Sanctuary",
+    "japaneseName": "オアシス",
+    "image": "oasis.webp",
+    "standUser": "f0a9dcc6-7f92-49b8-8130-5b206c209f37",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "User Suit",
+      "Ground Liquefaction",
+      "Physical Enhancement"
+    ],
+    "battlecry": "OAAAAAAAAAAASIS!"
+  },
+  {
+    "id": "22f4d2ee-b766-4b84-a9dc-2de4105b9ab8",
+    "name": "Black Sabbath",
+    "alternateName": "Shadow Sabbath",
+    "japaneseName": "ブラック・サバス",
+    "image": "blacksabbath.png",
+    "standUser": "fa6aed91-e98f-4ccc-908d-2ca8b113f0e5",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Long-Range",
+      "Shadow Power",
+      "Soul Pull",
+      "Storage"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "835654b4-0aba-4240-99f8-5af48f1dfd14",
+    "name": "Soft Machine",
+    "alternateName": "Tender Machine",
+    "japaneseName": "ソフト・マシーン",
+    "image": "softmachine.png",
+    "standUser": "104c9ac4-4ca7-4cf8-a18e-fad37044f756",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Pinch Deflating"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "712f9ddc-d6ff-49a0-8949-a36d73a952ef",
+    "name": "Kraft Work",
+    "alternateName": "Arts & Crafts",
+    "japaneseName": "クラフト・ワーク",
+    "image": "kraftwork.png",
+    "standUser": "fc747554-3c51-4d44-ac27-8b076ef7d8c4",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Kinetic Energy Manipulation",
+      "Position Locking",
+      "Kinetic Energy Accumulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "7941466a-731a-4c2f-a56b-0c0da13d7b4d",
+    "name": "Metallica",
+    "alternateName": "Metallic",
+    "japaneseName": "メタリカ",
+    "image": "metallica.png",
+    "standUser": "0997252b-282d-4dce-9165-c679d04ca3cb",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Iron Manipulation",
+      "Invisibility",
+      "Stand Posession"
+    ],
+    "battlecry": "LOOOOOOOAAAAAAD"
+  },
+  {
+    "id": "73487ebd-6270-4785-8023-9a3c6409b37c",
+    "name": "Little Feet",
+    "alternateName": "Tiny Feet",
+    "japaneseName": "リトル・フィート",
+    "image": "littlefeet.png",
+    "standUser": "83b8baad-e111-43b5-8aa5-7a2117134a9d",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Shrinking",
+      "Speed"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "59780cab-28da-402a-9a4c-751410a48d78",
+    "name": "Man in the Mirror",
+    "alternateName": "Mirror Man",
+    "japaneseName": "マン・イン・ザ・ミラー",
+    "image": "mirrorman.png",
+    "standUser": "f92888f3-164c-4116-8b1e-2670feb61d24",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Mirror World Entry"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "30ed65af-059d-4a8e-92ad-4b14527eb878",
+    "name": "The Grateful Dead",
+    "alternateName": null,
+    "japaneseName": "ザ・グレイトフル・デッド (偉大なる死)",
+    "image": "grateful.png",
+    "standUser": "3eabb474-9fa2-42fa-a174-57c7c5475afe",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Accelerated Aging"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "113b5914-988a-4c36-b998-d2f4703f1c8d",
+    "name": "Beach Boy",
+    "alternateName": "Fisher Man",
+    "japaneseName": "ビーチ・ボーイ",
+    "image": "beachboy.webp",
+    "standUser": "8c96138a-918f-427e-a9f5-6577202df06a",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Hook and Line",
+      "Extreme Line Sensibility",
+      "Damage Reflection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "c7a81320-5f74-4540-bfdf-286bb003fcc3",
+    "name": "Baby Face",
+    "alternateName": "Babyhead",
+    "japaneseName": "ベイビィ・フェイス",
+    "image": "babyface.png",
+    "standUser": "620b67dc-b799-49a1-b861-c2bb148020e2",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Homunculus Generation",
+      "Computer",
+      "Junior",
+      "Matter Manipulation",
+      "Physical Growth and Aging",
+      "Autonomy"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "d41c5327-7fd2-41dc-b2bb-8ac9040527df",
+    "name": "White Album",
+    "alternateName": "White Ice",
+    "japaneseName": "ホワイト・アルバム",
+    "image": "whitealbum.png",
+    "standUser": "742bcd25-9cb7-4a1f-8274-313c9f3cfc59",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "User Suit",
+      "Cryokinesis",
+      "Ice Armor",
+      "Gently Weeps"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "672f7c9c-fe48-4884-875b-dd39ad627feb",
+    "name": "Rolling Stones",
+    "alternateName": "Prophecy Stones",
+    "japaneseName": "ローリング・ストーン(ズ)",
+    "image": "rollingstone.webp",
+    "standUser": "e43d14d4-e80c-459c-97f1-4afa8f3b1095",
+    "chapter": [
+      "Vento Aureo"
+    ],
+    "abilities": [
+      "Homing to Dying Target"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ed9acc6c-35bf-47cb-b485-c8e3e250f664",
+    "name": "Stone Free",
+    "alternateName": "Stone Ocean",
+    "japaneseName": "ストーン・フリー",
+    "image": "stonefree.webp",
+    "standUser": "ec2f199e-6a38-4d7b-8d15-b9950775ac03",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "String Decomposition",
+      "String Manipulation",
+      "Speed",
+      "Strength"
+    ],
+    "battlecry": "ORA ORA ORA"
+  },
+  {
+    "id": "a6e9141e-40ba-432d-b1f2-7590c8aadbd8",
+    "name": "Kiss",
+    "alternateName": null,
+    "japaneseName": "キッス",
+    "image": "kiss.png",
+    "standUser": "3cc31871-432c-4e55-b85c-7701ffb6d265",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Duplicating Stickers"
+    ],
+    "battlecry": "OSHAAAA!"
+  },
+  {
+    "id": "413ecfdc-470d-4035-90d1-6f61534b9f07",
+    "name": "Burning Down the House",
+    "alternateName": null,
+    "japaneseName": "バーニング・ダウン・ザ・ハウス",
+    "image": "burning.webp",
+    "standUser": "e2727ad2-cc40-4d70-964f-2b0717dc5568",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Ghost Objects",
+      "Ghost Room"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "5ef34624-4ec8-426a-9724-a8d22e24c694",
+    "name": "Foo Fighters",
+    "alternateName": null,
+    "japaneseName": "フー・ファイターズ",
+    "image": "ff.webp",
+    "standUser": "b96ed32d-0ce6-414f-a695-dfde77eb63f6",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Plankton Colony Form",
+      "Body Invasion",
+      "Water Control",
+      "Plankton Shot",
+      "Wound Seal"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "c6ff5465-65ad-4293-8eed-71511afda294",
+    "name": "Diver Down",
+    "alternateName": null,
+    "japaneseName": "ダイバー・ダウン",
+    "image": "diverdown.png",
+    "standUser": "5de913dd-7b2c-4b94-918b-64e2da6fe4ea",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Stand Power Storage",
+      "Restructuring"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "76a0b638-29bf-4931-aa3e-aef0504f3c39",
+    "name": "Weather Report",
+    "alternateName": null,
+    "japaneseName": "ウェザー・リポート",
+    "image": "heavyweather.webp",
+    "standUser": "6fc74309-54d9-4465-8808-97b427b14420",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Weather Control",
+      "Air and Wind Manipulation",
+      "Humidity and Cloud Manipulation",
+      "Oxygen Build-Up",
+      "Cloud Suit",
+      "Heavy Weather",
+      "Snail Projection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "df46a6d9-d007-448c-8a28-222eab5d0de0",
+    "name": "Goo Goo Dolls",
+    "alternateName": null,
+    "japaneseName": "グー・グー・ドールズ",
+    "image": "googoo.webp",
+    "standUser": "c8fa0c3b-332b-42e5-9343-3d30ae6ea03a",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Size Reduction"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "5752d176-8387-45eb-98e3-2d51deb71762",
+    "name": "Whitesnake",
+    "alternateName": null,
+    "japaneseName": "ホワイトスネイク",
+    "image": "whitesnake.webp",
+    "standUser": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "\"Melt Your Heart\"",
+      "Illusion",
+      "Disc Creation"
+    ],
+    "battlecry": "UOSHAAA!"
+  },
+  {
+    "id": "34cf5c24-34f4-4751-ad54-a4472cc605a8",
+    "name": "C-Moon",
+    "alternateName": null,
+    "japaneseName": "C-Moon",
+    "image": "cmoon.webp",
+    "standUser": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Gravity Shift",
+      "Surface Inversion",
+      "Time Acceleration",
+      "Speed",
+      "Power"
+    ],
+    "battlecry": "USHYAAA!"
+  },
+  {
+    "id": "de0ddb64-c444-4486-b729-9469b5908ce3",
+    "name": "Made in Heaven",
+    "alternateName": null,
+    "japaneseName": "メイド・イン・ヘブン",
+    "image": "madeinheaven.webp",
+    "standUser": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Time Acceleration",
+      "Universal Reset"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "392909e6-7464-483e-a376-03832d0fbaec",
+    "name": "Under World",
+    "alternateName": null,
+    "japaneseName": "アンダー・ワールド",
+    "image": "underworld.png",
+    "standUser": "09fdf142-c485-4944-8779-240c8e7b02bb",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Memory Unearthing"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "831b5830-917e-43ca-a320-e07b4eaa90e0",
+    "name": "Sky High",
+    "alternateName": null,
+    "japaneseName": "スカイ・ハイ",
+    "image": "skyhigh.webp",
+    "standUser": "5b7ab2a0-1b7c-4e71-ba77-179814d6ec51",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Rods (sky fish)",
+      "Rod Manipulation",
+      "Localized Illness"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "98d5aab4-2468-4b15-892a-0b7889749910",
+    "name": "Bohemian Rhapsody",
+    "alternateName": null,
+    "japaneseName": "ボヘミアン・ラプソディー (自由人の狂想曲)",
+    "image": "bohemian.png",
+    "standUser": "cebf0570-8656-40a2-8572-1038684d6b34",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Fiction Realization"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "cf8faf08-934c-4806-bafa-ce24b92d4e8a",
+    "name": "Green, Green Grass of Home",
+    "alternateName": null,
+    "japaneseName": "グリーン・グリーン・グラス・オブ・ホーム",
+    "image": "greengreen.webp",
+    "standUser": "e62ae07a-e61b-454b-9355-05124a09b53f",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Shrinking"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "037b28e6-6dbc-4155-a9e1-e7c48cb31473",
+    "name": "Manhattan Transfer",
+    "alternateName": null,
+    "japaneseName": "マンハッタン・トランスファー",
+    "image": "manhattan.webp",
+    "standUser": "2ebd3deb-1142-4aa7-be9b-972159a97044",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Wind Reading",
+      "Bullet Redirection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ce711ecc-827f-44dc-ad96-597a724551da",
+    "name": "Limp Bizkit",
+    "alternateName": "Flaccid Pancake",
+    "japaneseName": "リンプ・ビズキット",
+    "image": "limpbizkit.jpg",
+    "standUser": "b0b3a648-6c31-4dd1-98ec-a199e1e2d5c3",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Invisible Reincarnation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "7ed5ed73-1eb7-4712-a183-f6238bae909b",
+    "name": "Jail House Lock",
+    "alternateName": null,
+    "japaneseName": "ジェイル・ハウス・ロック（JAIL HOUSE LOCK)",
+    "image": "jailhouselock.webp",
+    "standUser": "a85b92ab-9a47-4e9e-8802-a89f3c3d05bd",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Short-term Memory Loss"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "a81735ee-031e-42c0-933a-bccaed2adbd7",
+    "name": "Marilyn Manson",
+    "alternateName": null,
+    "japaneseName": "取り立て人マリリン・マンソン",
+    "image": "marilynmanson.png",
+    "standUser": "ee01450f-89f5-4707-bfde-348cb999ef02",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Debt Collection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ee4bec6a-a88f-47a0-aa5b-840605dae244",
+    "name": "Jumpin' Jack Flash",
+    "alternateName": null,
+    "japaneseName": "ジャンピン・ジャック・フラッシュ",
+    "image": "jumpinjack.png",
+    "standUser": "321d859d-a2a2-469c-80e0-fb232c27b929",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Gravitational Removal",
+      "Built-in Centrifuges"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "c3c264b7-cbbe-4f79-9d22-755d9d91c0f3",
+    "name": "Dragon's Dream",
+    "alternateName": null,
+    "japaneseName": "ドラゴンズ・ドリーム（龍の夢)",
+    "image": "dragon.png",
+    "standUser": "3fa5d9fa-089b-4575-ae16-c55b56d11f5b",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Autonomy",
+      "Feng Shui",
+      "Feng Shui Luck Reading",
+      "Neutrality"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ed7aa349-7eb7-462e-a59a-310821026580",
+    "name": "Yo-Yo Ma",
+    "alternateName": null,
+    "japaneseName": "ヨーヨーマッ",
+    "image": "yoyo.png",
+    "standUser": "64ad30ac-0db6-4f84-9f7f-f3034d20d7a6",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Automatic Stand",
+      "Intelligence",
+      "Acid Saliva",
+      "Indestructible"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f4524501-0b49-41a7-8841-d8801d8e8010",
+    "name": "Survivor",
+    "alternateName": null,
+    "japaneseName": "サバイバー",
+    "image": "survivor.jpg",
+    "standUser": "78585f59-1c42-49d1-913c-cb9acb250ee2",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Aggresiveness Stimulation",
+      "Automatic Stand"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "dfda0243-f106-449c-acf3-07e9c9d7ba9e",
+    "name": "Planet Waves",
+    "alternateName": null,
+    "japaneseName": "プラネット・ウェイブス",
+    "image": "planetwaves.png",
+    "standUser": "fb9ef55e-d5ec-4e6e-b8a5-243ccf9e3234",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Meteorite Attraction"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "d2399fba-962e-4ef6-80d5-186b22f6b1fd",
+    "name": "Highway to Hell",
+    "alternateName": null,
+    "japaneseName": "ハイウェイ・トゥ・ヘル (地獄のハイウェイ)",
+    "image": "highway.png",
+    "standUser": "ecc7af1e-e536-4059-9d92-26351323cb1d",
+    "chapter": [
+      "Stone Ocean"
+    ],
+    "abilities": [
+      "Damage Sharing"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "3680d264-3c77-4d1c-87d6-a8fb518cf095",
+    "name": "Tusk",
+    "alternateName": null,
+    "japaneseName": "タスク",
+    "image": "tusk.jpg",
+    "standUser": "57c093d6-8464-4463-990b-68bf986c04fd",
+    "chapter": [
+      "Steel Ball Run",
+      "Jojolion"
+    ],
+    "abilities": [
+      "ACT1: Spinning Nails",
+      "ACT2: Golden Rectangle Nails",
+      "ACT3: Spatial Wormhole",
+      "ACT4: Infinite Rotation"
+    ],
+    "battlecry": "Chumimi~in! ORAORAORA!"
+  },
+  {
+    "id": "0595009c-0a4d-48f4-b4f5-95c8ac1ca256",
+    "name": "Ball Breaker",
+    "alternateName": null,
+    "japaneseName": "ボール・ブレイカー",
+    "image": "ballbreaker.png",
+    "standUser": "14e04268-332e-4e27-9d99-c05972d9eabe",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Golden Spin",
+      "Spin"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "af1727e6-4095-4a85-8b35-f822ff78b54f",
+    "name": "Ticket to Ride",
+    "alternateName": null,
+    "japaneseName": "涙の乗車券",
+    "image": "ticket.png",
+    "standUser": "38f13a70-d9aa-4a94-8681-1f1a37c47cec",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Blade of Tears",
+      "Divine Protection"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "0d29f90c-e186-4f76-b84a-3d105fdb00f0",
+    "name": "Cream Starter",
+    "alternateName": null,
+    "japaneseName": "クリーム・スターター",
+    "image": "creamstarter.webp",
+    "standUser": "987a3804-c1b9-4ba0-bcfe-6027d9f897e5",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Flesh Spray"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "e22fb6a0-7297-49c5-94ab-c1790f6d2422",
+    "name": "Oh! Lonesome Me",
+    "alternateName": null,
+    "japaneseName": "オー！ロンサム・ミー",
+    "image": "lonesome.webp",
+    "standUser": "7b113f70-2064-46ce-a657-13b3f2acb940",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Rope Transfer"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "22ef29a3-93f2-431f-b7c3-1ca73e0bf818",
+    "name": "Scary Monsters",
+    "alternateName": null,
+    "japaneseName": "スケアリー・モンスターズ",
+    "image": "scarymonsters.webp",
+    "standUser": "9ae05edf-1e56-4da8-8028-36b7be9c19b3",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Dinosaur Infection",
+      "Dinosaur Morph",
+      "Fossilization"
+    ],
+    "battlecry": "USHAAA!"
+  },
+  {
+    "id": "881f8c92-3cb7-4477-bbb8-cae84201e62f",
+    "name": "20th Century Boy",
+    "alternateName": null,
+    "japaneseName": "20th Century BOY（トウェンティース・センチュリー・ボーイ)",
+    "image": "20thcentury.webp",
+    "standUser": "8faea665-66e6-4bbe-b849-52711595f154",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Absolute Defense"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "25090c4c-049c-48ca-8bfd-9032cd61aa46",
+    "name": "Hey Ya!",
+    "alternateName": null,
+    "japaneseName": "ヘイ・ヤー",
+    "image": "heyya.webp",
+    "standUser": "3adb83ee-fb1a-41fe-b676-da92e064b919",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Cheer On"
+    ],
+    "battlecry": "Keep on rushing forward!! After all, there is nothing but luck inside your bag!"
+  },
+  {
+    "id": "152effed-e0dd-4828-af34-55cc5fa60459",
+    "name": "Dirty Deeds Done Dirt Cheap",
+    "alternateName": "D4C, Filthy Acts at a Reasonable Price",
+    "japaneseName": "ダーティー・ディーズ・ダン・ダート・チープ",
+    "image": "d4c.webp",
+    "standUser": "e5c0376c-bd2f-406a-b4a1-a133f08fd2b6",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Dimension Hop",
+      "Love Train",
+      "Misfortune Redirection"
+    ],
+    "battlecry": "DOJYAAN!"
+  },
+  {
+    "id": "e8aab9ae-6e38-495c-8041-be130aab0033",
+    "name": "Catch the Rainbow",
+    "alternateName": null,
+    "japaneseName": "キャッチ・ザ・レインボー",
+    "image": "catchtherainbow.jpg",
+    "standUser": "b2968d63-e512-4045-bfcf-d43a401e2122",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Mask Form",
+      "Rain Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "71c2dd30-aeaa-42de-971b-0cd4a066cac5",
+    "name": "Tubular Bells",
+    "alternateName": null,
+    "japaneseName": "チューブラー・ベルズ",
+    "image": "tubularbells.png",
+    "standUser": "ef056edc-79bb-497f-8478-62e11076b3bf",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Metal Blowing"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "15d355cf-437f-4c14-823b-baf44cf2506f",
+    "name": "Mandom",
+    "alternateName": null,
+    "japaneseName": "マンダム",
+    "image": "mandom.jpg",
+    "standUser": "e435010a-388f-4588-88cd-1cb26ea190c9",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Time Rewind"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "20bf373c-b5db-4741-af57-e4af1a852c9a",
+    "name": "Civil War",
+    "alternateName": null,
+    "japaneseName": "シビル・ウォー",
+    "image": "civilwar.webp",
+    "standUser": "42edc123-028d-4697-928b-ddc3d083506a",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Guilt Materialization",
+      "Guilt Reanimation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "dbdfe9f7-f479-4d14-92ea-33b2755cdc7a",
+    "name": "Chocolate Disco",
+    "alternateName": null,
+    "japaneseName": "チョコレート・ディスコ",
+    "image": "chocolatedisco.webp",
+    "standUser": "6675741f-70ec-438a-b1a1-8637d7d28228",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Teleporting Grid"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f226d85a-c058-48b4-80d7-216f379dc98b",
+    "name": "Tatoo You!",
+    "alternateName": null,
+    "japaneseName": "タトゥーユー！",
+    "image": "tatoo.webp",
+    "standUser": "568f0ef6-9ab5-4483-afec-5867c08bd51f",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Body Slide",
+      "Multiple Users"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "e930b65a-8b54-4cff-bce8-d95ab82fb306",
+    "name": "Wired",
+    "alternateName": null,
+    "japaneseName": "ワイアード",
+    "image": "wired.webp",
+    "standUser": "7fd90f5a-e5ca-400b-9862-e5cbbad20188",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Tongue Hooks"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ccda59fc-f562-4e5c-9faf-2f0e77867473",
+    "name": "In a Silent Way",
+    "alternateName": null,
+    "japaneseName": "イン・ア・サイレント・ウェイ",
+    "image": "silentway.jpg",
+    "standUser": "f62778a9-a4b4-49cf-b9d0-8591506b09a4",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Sound Storage",
+      "Sound Construct"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "1a88fe9b-7d08-469d-a4b4-b89088f30286",
+    "name": "Tomb of the Boom 1",
+    "alternateName": null,
+    "japaneseName": "トゥーム・オブ・ザ・ブーム",
+    "image": "tomb1.png",
+    "standUser": "b8f4c9db-a05e-4576-8060-e44e96680cb8",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Magnetism",
+      "Metal Replication",
+      "Hidden Blades"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "2d879576-2bdf-47bb-b173-207fda754d04",
+    "name": "Tomb of the Boom 2",
+    "alternateName": null,
+    "japaneseName": "トゥーム・オブ・ザ・ブーム",
+    "image": "tomb2.png",
+    "standUser": "9c0e19e4-1c29-426d-923f-15ce45b250cf",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Extreme Magnetism"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f7aacf40-aa1a-4409-9493-fabe57b6dbc5",
+    "name": "Tomb of the Boom 3",
+    "alternateName": null,
+    "japaneseName": "トゥーム・オブ・ザ・ブーム",
+    "image": "tomb3.png",
+    "standUser": "c0a8dad8-1788-4ab6-9eee-c93824031955",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Magnetism",
+      "Iron Sand",
+      "Iron Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f7b400d3-1f8e-4d79-93e4-7758b290e4bc",
+    "name": "Boku no Rhythm wo Kiitekure",
+    "alternateName": null,
+    "japaneseName": "ボクのリズムを聴いてくれ",
+    "image": "boku.webp",
+    "standUser": "7eaf1a36-a475-4d97-81da-46b32702ee8c",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "Contact Bombs"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "a28d3b8f-1afc-4ef4-95d7-a7f00c9b0cac",
+    "name": "Sugar Mountain",
+    "alternateName": null,
+    "japaneseName": "シュガー・マウンテンの泉",
+    "image": "sugartree.webp",
+    "standUser": "09548d65-ce30-4a27-bb9f-d0960c946d8e",
+    "chapter": [
+      "Steel Ball Run"
+    ],
+    "abilities": [
+      "The Guardian",
+      "Trial of Avidity",
+      "Trial of Avarice"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "b022a7f2-04db-4a0f-b143-f08a89939f60",
+    "name": "Soft & Wet",
+    "alternateName": null,
+    "japaneseName": "ソフト＆ウェット",
+    "image": "softwet.webp",
+    "standUser": "bac448da-b732-49ab-9d09-38cb589a677d",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Spin",
+      "Bubble Generation",
+      "Plunder",
+      "Bomb Creation",
+      "Go Beyond"
+    ],
+    "battlecry": "ORA ORA ORA"
+  },
+  {
+    "id": "a869c538-4e98-41ca-bfac-8c3a6a81dfe6",
+    "name": "Paisley Park",
+    "alternateName": null,
+    "japaneseName": "ペイズリー・パーク",
+    "image": "paisley.png",
+    "standUser": "a42012ea-0d15-453a-ae5e-7345cf420cb4",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Guidance",
+      "Electronics Manipulation",
+      "Shapeshifting"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f91dae95-13c8-4085-91f6-894b730a3ba6",
+    "name": "Doggy Style",
+    "alternateName": null,
+    "japaneseName": "ドギー・スタイル",
+    "image": "doggystyle.webp",
+    "standUser": "b9397027-4ada-400f-83a6-6f8bfd418c2c",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Skin Peeling",
+      "Spin"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "a0e6c008-3b08-4780-8710-64beb7055146",
+    "name": "Nut King Call",
+    "alternateName": null,
+    "japaneseName": "ナット・キング・コール",
+    "image": "nutkingcall.webp",
+    "standUser": "616629c9-4a27-44eb-b569-9c17b50143dc",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Nuts and Bolts"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "024d1102-9d5f-4672-860e-882f09193346",
+    "name": "Paper Moon King",
+    "alternateName": null,
+    "japaneseName": "ペーパー・ムーン・キング",
+    "image": "papermoon.png",
+    "standUser": "cd38ef8a-98e6-48f6-a5bb-ebf59a787247",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Living Origami",
+      "Sensory Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "cde6d8bb-df77-4aad-8f13-8ce7884cabfe",
+    "name": "King Nothing",
+    "alternateName": null,
+    "japaneseName": "キング・ナッシング",
+    "image": "kingnothing.webp",
+    "standUser": "37be0c9a-8546-495a-b2a3-1ee396159bea",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Scent Tracking",
+      "Jigsaw Constitution"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "f0c1df08-8928-4f54-becf-7bcabb928eed",
+    "name": "Space Trucking",
+    "alternateName": null,
+    "japaneseName": "スペース・トラッキング",
+    "image": "spacetrucking.webp",
+    "standUser": "2a330f20-abfc-4156-b6e2-a64ce1f2c999",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Dimensional Storage"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "3412d824-6926-4e10-a6e1-480bffbb6f05",
+    "name": "California King Bed",
+    "alternateName": null,
+    "japaneseName": "カリフォルニア・キング・ベッドちゃん",
+    "image": "californiaking.webp",
+    "standUser": "4d0e194f-d559-4611-a8a0-98066a02abde",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Memory Theft"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "60353674-9fe7-4826-aa54-16b91c4108c4",
+    "name": "Walking Heart",
+    "alternateName": null,
+    "japaneseName": "ウォーキング・ハート",
+    "image": "walkingheart.webp",
+    "standUser": "a361359c-53c6-4a93-9382-85cd22bc0ae0",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Heel Spikes"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "10b448ca-f414-43a5-8b2c-ff0909d871d7",
+    "name": "Speed King",
+    "alternateName": null,
+    "japaneseName": "スピード・キング",
+    "image": "speedking.webp",
+    "standUser": "31e2d4e6-12a0-4eb1-92ae-a5213047e3f5",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Heat Accumulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "0ca577f1-84cb-48db-a7cf-ab96e4469c10",
+    "name": "Awaking III Leaves",
+    "alternateName": null,
+    "japaneseName": "アウェイキング・三リーブス",
+    "image": "awakingleaves.png",
+    "standUser": "7dbdca59-6357-413d-8fb8-cc0b266f7376",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Vector Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "9487f931-8b38-4d23-a67b-60a043a8dad2",
+    "name": "Born This Way",
+    "alternateName": null,
+    "japaneseName": "ボーン・ディス・ウェイ",
+    "image": "bornthisway.webp",
+    "standUser": "3e1da7eb-5cf5-4fd8-b138-588e8a5c53cc",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Motorcycle",
+      "Summon Through Opening",
+      "Freezing Wind"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "70c1c43b-ca41-47a9-82fd-6dcf33ba1c0c",
+    "name": "Killer Queen",
+    "alternateName": null,
+    "japaneseName": "キラークイーン",
+    "image": "killerqueen8.png",
+    "standUser": "8ea25ad1-5118-4d81-ab72-e86260fb57ca",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Exploding Bubbles"
+    ],
+    "battlecry": "WRYYYYYEEEEAH!"
+  },
+  {
+    "id": "33b315b2-2b4d-4396-983f-9ab751d055a8",
+    "name": "Love Love Deluxe",
+    "alternateName": null,
+    "japaneseName": "ラブラブデラックス",
+    "image": "lovelovedeluxe.webp",
+    "standUser": "61e6a865-5fbc-41d5-bb9b-6e440835a9da",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Hair Growth"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "ceca23a5-3622-428b-a56f-0c3055c25dba",
+    "name": "Vitamin C",
+    "alternateName": null,
+    "japaneseName": "ビタミンC",
+    "image": "vitaminc.webp",
+    "standUser": "de9ff1ad-edf3-47b3-b6cc-e1abeaf88957",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Organic Softening"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "2a11c54a-5d59-438d-bcc6-8ed9820fce84",
+    "name": "I Am a Rock",
+    "alternateName": null,
+    "japaneseName": "アイ・アム・ア・ロック",
+    "image": "iamarock.jpg",
+    "standUser": "2adc64c2-a148-4d6e-826a-6e5b9b13222c",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Selective Attraction"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "dd463dda-2947-4674-8954-38289b53fb83",
+    "name": "Doobie Wah!",
+    "alternateName": null,
+    "japaneseName": "ドゥービー・ワゥ！",
+    "image": "doobiewah.webp",
+    "standUser": "b9a73642-aaf9-4962-94e4-94dd1e0037e6",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Pursuing Vortex"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "aec0660c-ce24-452e-82ba-ebbbecac600c",
+    "name": "Schott Key No.1",
+    "alternateName": null,
+    "japaneseName": "ショット・キーNo.1",
+    "image": "schottkey1.webp",
+    "standUser": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Left Hand-Right Hand Transference"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "6137fa02-1f59-4e87-b259-b398faccc781",
+    "name": "Schott Key No.2",
+    "alternateName": null,
+    "japaneseName": "ショット・キーNo.2",
+    "image": "schottkey2.webp",
+    "standUser": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Toxic Gas"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "b8c3dbeb-958f-4cc3-9b2e-6d2eb1b51b0f",
+    "name": "Blue Hawaii",
+    "alternateName": null,
+    "japaneseName": "ブルー・ハワイ",
+    "image": "bluehawaii.webp",
+    "standUser": "a48039a7-e5cb-447d-bdb7-52144480a775",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Mind control Contagion"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "d5f72269-fa51-4ed8-8ab6-ff38f783eef0",
+    "name": "Brain Storm",
+    "alternateName": null,
+    "japaneseName": "ブレイン・ストーム",
+    "image": "brainstorm.webp",
+    "standUser": "aef856e7-b07d-4780-a747-b6e09fa9e093",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Hemolysis"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "58e01f0e-905f-4f62-ba00-bd7fdfde4c36",
+    "name": "Ozon Baby",
+    "alternateName": null,
+    "japaneseName": "オゾン・ベイビー",
+    "image": "ozonbaby.png",
+    "standUser": "a92dcc36-9f9f-4265-ba47-c51776a4a3bb",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Pressure Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "bda5555b-306c-477b-9d9a-dc567bf3a4d3",
+    "name": "Doctor Wu",
+    "alternateName": null,
+    "japaneseName": "ドクター・ウー",
+    "image": "doctorwu.png",
+    "standUser": "0dbcffcc-4352-490f-a968-5b7a0daa6afa",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Gravel Transformation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "78a67c6c-43fc-4900-969d-7ecf5ce95077",
+    "name": "Wonder of U",
+    "alternateName": null,
+    "japaneseName": "ワンダー・オブ・U",
+    "image": "wonderofu.png",
+    "standUser": "bb8c6dd5-1f54-43ba-a925-f06ec5f5a706",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Sentience",
+      "Autonomy",
+      "Identity Assumption",
+      "Long-Range Illusion Creation",
+      "Calamity Manipulation",
+      "Knowledge"
+    ],
+    "battlecry": "The flow of things will always lead to calamity."
+  },
+  {
+    "id": "6b41897f-d244-4152-9db4-c37c7641c337",
+    "name": "Fun Fun Fun",
+    "alternateName": null,
+    "japaneseName": "ファン・ファン・ファン",
+    "image": "funfunfun.png",
+    "standUser": "bba2b673-efb0-4f69-9b3b-d453a09d1dd8",
+    "chapter": [
+      "Jojolion"
+    ],
+    "abilities": [
+      "Body Manipulation"
+    ],
+    "battlecry": null
+  },
+  {
+    "id": "60bff972-ee55-4394-88b0-fc953406c566",
+    "name": "karma",
+    "alternateName": "karma test",
+    "japaneseName": "karma",
+    "image": "karma.jpg",
+    "standUser": "e07f8ded-704c-47ab-b7d1-714d77c44087",
+    "chapter": [
+      "Diamond is Unbrekeable"
+    ],
+    "abilities": [
+      "juez temporal"
+    ],
+    "battlecry": "suspiro"
+  }
+]
