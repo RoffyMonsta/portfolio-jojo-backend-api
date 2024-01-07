@@ -5,7 +5,7 @@
     "alternateName": null,
     "japaneseName": "ザ・ワールド(世界)",
     "image": "theworld.png",
-    "standUser": "9740d105-c4b6-4bdf-9c91-4353e2f92065",
+    "characterId": "9740d105-c4b6-4bdf-9c91-4353e2f92065",
     "chapter": [
       "Stardust Crusaders",
       "Steel Ball Run"
@@ -23,7 +23,7 @@
     "alternateName": null,
     "japaneseName": "ハーミットパープル（隠者の紫)",
     "image": "hermitpurple.webp",
-    "standUser": "e07f8ded-704c-47ab-b7d1-714d77c44087",
+    "characterId": "e07f8ded-704c-47ab-b7d1-714d77c44087",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -40,7 +40,7 @@
     "alternateName": null,
     "japaneseName": "スタープラチナ（星の白金)",
     "image": "starplatinum.png",
-    "standUser": "ad6126ea-33c0-489d-8d7b-4135f197ff08",
+    "characterId": "ad6126ea-33c0-489d-8d7b-4135f197ff08",
     "chapter": [
       "Stardust Crusaders",
       "Diamond Is Unbreakable",
@@ -61,7 +61,7 @@
     "alternateName": null,
     "japaneseName": "マジシャンズレッド（魔術師の赤)",
     "image": "magicianred.png",
-    "standUser": "3dc8b333-ce07-443c-acf0-c5eea14f5699",
+    "characterId": "3dc8b333-ce07-443c-acf0-c5eea14f5699",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -81,7 +81,7 @@
     "alternateName": null,
     "japaneseName": "ハイエロファントグリーン（法皇の緑)",
     "image": "hierophantgreen.png",
-    "standUser": "89965ccb-b023-48ad-93e2-5c2d9dbbbc12",
+    "characterId": "89965ccb-b023-48ad-93e2-5c2d9dbbbc12",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -98,7 +98,7 @@
     "alternateName": null,
     "japaneseName": "シルバーチャリオッツ（銀の戦車)",
     "image": "silverchariot.png",
-    "standUser": "02018ef1-4eb4-4e5a-8d30-78f86d7acbf0",
+    "characterId": "02018ef1-4eb4-4e5a-8d30-78f86d7acbf0",
     "chapter": [
       "Stardust Crusaders",
       "Vento Aureo"
@@ -118,7 +118,7 @@
     "alternateName": null,
     "japaneseName": "ザ・フール（愚者)",
     "image": "thefool.webp",
-    "standUser": "f8514cd8-0945-4387-b499-123967a7ed63",
+    "characterId": "f8514cd8-0945-4387-b499-123967a7ed63",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -134,7 +134,7 @@
     "alternateName": null,
     "japaneseName": "ジャスティス（正義）",
     "image": "justice.webp",
-    "standUser": "0bf3eb3b-a752-4175-898c-5c85ec96efc4",
+    "characterId": "0bf3eb3b-a752-4175-898c-5c85ec96efc4",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -150,7 +150,7 @@
     "alternateName": null,
     "japaneseName": "クリーム",
     "image": "cream.png",
-    "standUser": "94c490bf-0200-4028-ac25-a33a2277096b",
+    "characterId": "94c490bf-0200-4028-ac25-a33a2277096b",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -165,7 +165,7 @@
     "alternateName": null,
     "japaneseName": "エンペラー（皇帝)",
     "image": "emperor.webp",
-    "standUser": "1a50f168-032c-4702-a283-5705ec1965a2",
+    "characterId": "1a50f168-032c-4702-a283-5705ec1965a2",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -180,7 +180,7 @@
     "alternateName": null,
     "japaneseName": "ハングドマン（吊られた男)",
     "image": "hangedman.png",
-    "standUser": "8dd9b41e-6017-4935-9735-0e16bd249f71",
+    "characterId": "8dd9b41e-6017-4935-9735-0e16bd249f71",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -196,7 +196,7 @@
     "alternateName": null,
     "japaneseName": "オシリス神",
     "image": "osiris.webp",
-    "standUser": "d43d96b6-57bc-4626-8f96-15755a3b049d",
+    "characterId": "d43d96b6-57bc-4626-8f96-15755a3b049d",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -211,7 +211,7 @@
     "alternateName": null,
     "japaneseName": "アトゥム神",
     "image": "atum.webp",
-    "standUser": "d34a7410-6acf-4edb-88af-8db732d9ea4a",
+    "characterId": "d34a7410-6acf-4edb-88af-8db732d9ea4a",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -227,7 +227,7 @@
     "alternateName": null,
     "japaneseName": "ホルス神",
     "image": "horus.webp",
-    "standUser": "63da4702-9ea4-40c8-ae87-d8b7bb8b9140",
+    "characterId": "63da4702-9ea4-40c8-ae87-d8b7bb8b9140",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -242,7 +242,7 @@
     "alternateName": null,
     "japaneseName": "ゲブ神",
     "image": "geb.png",
-    "standUser": "044c1a48-9c30-4aa8-8fc1-e41b0308f438",
+    "characterId": "044c1a48-9c30-4aa8-8fc1-e41b0308f438",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -257,7 +257,7 @@
     "alternateName": "Bast",
     "japaneseName": "バステト女神",
     "image": "bastet.webp",
-    "standUser": "7496491a-514f-40ac-9951-1325966d1235",
+    "characterId": "7496491a-514f-40ac-9951-1325966d1235",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -272,7 +272,7 @@
     "alternateName": "Set",
     "japaneseName": "セト神",
     "image": "sethan.webp",
-    "standUser": "60e77926-69af-46b5-ae83-567440227344",
+    "characterId": "60e77926-69af-46b5-ae83-567440227344",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -288,7 +288,7 @@
     "alternateName": null,
     "japaneseName": "クヌム神",
     "image": "khnum.webp",
-    "standUser": "0e0840ec-4e38-4145-aa14-8264c19d1437",
+    "characterId": "0e0840ec-4e38-4145-aa14-8264c19d1437",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -303,7 +303,7 @@
     "alternateName": null,
     "japaneseName": "トト神",
     "image": "tohth.png",
-    "standUser": "12ca337f-f68c-43e1-9e2a-97e4168de4f8",
+    "characterId": "12ca337f-f68c-43e1-9e2a-97e4168de4f8",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -318,7 +318,7 @@
     "alternateName": null,
     "japaneseName": "アヌビス神",
     "image": "anubis.png",
-    "standUser": "eb62f8b6-5d77-43f2-b0e5-ca9db4931c18",
+    "characterId": "eb62f8b6-5d77-43f2-b0e5-ca9db4931c18",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -335,7 +335,7 @@
     "alternateName": null,
     "japaneseName": "タワー・オブ・グレー（灰の塔)",
     "image": "towerofgray.png",
-    "standUser": "570e6bc8-7602-4b1d-9403-36457dc5400d",
+    "characterId": "570e6bc8-7602-4b1d-9403-36457dc5400d",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -351,7 +351,7 @@
     "alternateName": null,
     "japaneseName": "ダークブルームーン（暗青の月)",
     "image": "darkbluemoon.webp",
-    "standUser": "7524923d-28fd-4259-a714-b3549d2a5a1b",
+    "characterId": "7524923d-28fd-4259-a714-b3549d2a5a1b",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -368,7 +368,7 @@
     "alternateName": null,
     "japaneseName": "ストレングス（力)",
     "image": "strength.webp",
-    "standUser": "9c06ba28-d5ea-449a-8787-9682b7eac1ed",
+    "characterId": "9c06ba28-d5ea-449a-8787-9682b7eac1ed",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -383,7 +383,7 @@
     "alternateName": null,
     "japaneseName": "エボニーデビル（悪魔)",
     "image": "ebonydevil.webp",
-    "standUser": "020d4136-a850-417d-8071-7aff69375908",
+    "characterId": "020d4136-a850-417d-8071-7aff69375908",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -398,7 +398,7 @@
     "alternateName": null,
     "japaneseName": "イエローテンパランス（黄の節制)",
     "image": "yellowtemperance.png",
-    "standUser": "b6bddb3a-1448-4e3d-aeea-a483cfec3ccd",
+    "characterId": "b6bddb3a-1448-4e3d-aeea-a483cfec3ccd",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -415,7 +415,7 @@
     "alternateName": null,
     "japaneseName": "エンプレス（女帝)",
     "image": "empress.webp",
-    "standUser": "a5c72fe4-263f-4075-8a5b-10fadab4ce26",
+    "characterId": "a5c72fe4-263f-4075-8a5b-10fadab4ce26",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -431,7 +431,7 @@
     "alternateName": null,
     "japaneseName": "ホウィール・オブ・フォーチュン（運命の車輪)",
     "image": "wheel.png",
-    "standUser": "60277ca6-ca3e-48ea-9923-22f71b144096",
+    "characterId": "60277ca6-ca3e-48ea-9923-22f71b144096",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -448,7 +448,7 @@
     "alternateName": null,
     "japaneseName": "ラバーズ（恋人)",
     "image": "lovers.png",
-    "standUser": "a506884c-1634-4dfb-8a14-a329cab9d232",
+    "characterId": "a506884c-1634-4dfb-8a14-a329cab9d232",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -466,7 +466,7 @@
     "alternateName": null,
     "japaneseName": "サン（太陽)",
     "image": "sun.webp",
-    "standUser": "51965e29-6ffb-4ad5-a6d8-914194ccce9b",
+    "characterId": "51965e29-6ffb-4ad5-a6d8-914194ccce9b",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -482,7 +482,7 @@
     "alternateName": null,
     "japaneseName": "デスサーティーン（死神13)",
     "image": "death13.webp",
-    "standUser": "9efe490b-feb8-4dad-9627-9190490870ab",
+    "characterId": "9efe490b-feb8-4dad-9627-9190490870ab",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -497,7 +497,7 @@
     "alternateName": null,
     "japaneseName": "ジャッジメント（審判)",
     "image": "judgement.webp",
-    "standUser": "9ac4561b-4de2-423f-8299-0d79e8d9ea16",
+    "characterId": "9ac4561b-4de2-423f-8299-0d79e8d9ea16",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -512,7 +512,7 @@
     "alternateName": null,
     "japaneseName": "ハイプリエステス（女教皇)",
     "image": "highpriestess.png",
-    "standUser": "fb3a5a88-d875-41c5-b7a9-1552d5e521c1",
+    "characterId": "fb3a5a88-d875-41c5-b7a9-1552d5e521c1",
     "chapter": [
       "Stardust Crusaders"
     ],
@@ -527,7 +527,7 @@
     "alternateName": "Shining Diamond",
     "japaneseName": "クレイジー・ダイヤモンド",
     "image": "crazydiamond.png",
-    "standUser": "f91880e4-c53e-41a1-8388-51b9cfaea01f",
+    "characterId": "f91880e4-c53e-41a1-8388-51b9cfaea01f",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -545,7 +545,7 @@
     "alternateName": null,
     "japaneseName": "ザ・ハンド（手)",
     "image": "thehand.png",
-    "standUser": "61c28c33-f78e-4b32-af23-ac60cb785063",
+    "characterId": "61c28c33-f78e-4b32-af23-ac60cb785063",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -560,7 +560,7 @@
     "alternateName": "Worse Company",
     "japaneseName": "バッド・カンパニー (極悪中隊)",
     "image": "badcompany.webp",
-    "standUser": "e2654a05-1402-4b27-99ec-789295c669c4",
+    "characterId": "e2654a05-1402-4b27-99ec-789295c669c4",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -575,7 +575,7 @@
     "alternateName": "Reverb",
     "japaneseName": "エコーズ",
     "image": "echoes.png",
-    "standUser": "25a54a29-317f-43f5-8d61-2b417563a4ea",
+    "characterId": "25a54a29-317f-43f5-8d61-2b417563a4ea",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -592,7 +592,7 @@
     "alternateName": null,
     "japaneseName": "ヘブンズ・ドアー（天国への扉)",
     "image": "heavensdoor.png",
-    "standUser": "b3e52b76-fa41-4259-acaa-7a76f47b9476",
+    "characterId": "b3e52b76-fa41-4259-acaa-7a76f47b9476",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -609,7 +609,7 @@
     "alternateName": null,
     "japaneseName": "ハーヴェスト",
     "image": "harvest.webp",
-    "standUser": "f7485d42-632b-4a83-b04b-6b2c5ad77be2",
+    "characterId": "f7485d42-632b-4a83-b04b-6b2c5ad77be2",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -628,7 +628,7 @@
     "alternateName": "Terra Ventus",
     "japaneseName": "アース・ウインド・アンド・ファイヤー",
     "image": "earthwind.jpg",
-    "standUser": "b6d478f2-39da-479d-a9d6-ba0839ab0dfb",
+    "characterId": "b6d478f2-39da-479d-a9d6-ba0839ab0dfb",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -643,7 +643,7 @@
     "alternateName": null,
     "japaneseName": "ラブ・デラックス",
     "image": "lovedeluxe.png",
-    "standUser": "9625c1d4-ea22-4851-a404-082268c3a0bc",
+    "characterId": "9625c1d4-ea22-4851-a404-082268c3a0bc",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -658,7 +658,7 @@
     "alternateName": "Highway Go Go",
     "japaneseName": "ハイウェイ・スター",
     "image": "highwaystar.png",
-    "standUser": "64fd26d9-d118-4a20-9e55-c9c04ec23d7d",
+    "characterId": "64fd26d9-d118-4a20-9e55-c9c04ec23d7d",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -678,7 +678,7 @@
     "alternateName": "Show Off",
     "japaneseName": "サーフィス（うわっ面)",
     "image": "surface.webp",
-    "standUser": "1b575be4-68d4-41eb-8795-c6e24d2f4925",
+    "characterId": "1b575be4-68d4-41eb-8795-c6e24d2f4925",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -694,7 +694,7 @@
     "alternateName": null,
     "japaneseName": "パール・ジャム",
     "image": "pearljam.webp",
-    "standUser": "1233c0f6-fe79-4907-9956-e994150735d7",
+    "characterId": "1233c0f6-fe79-4907-9956-e994150735d7",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -709,7 +709,7 @@
     "alternateName": null,
     "japaneseName": "シンデレラ",
     "image": "cinderella.png",
-    "standUser": "2b0df096-7ce9-4973-8d93-f77bb919a708",
+    "characterId": "2b0df096-7ce9-4973-8d93-f77bb919a708",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -725,7 +725,7 @@
     "alternateName": "Deadly Queen",
     "japaneseName": "キラークイーン",
     "image": "killerqueen.webp",
-    "standUser": "9438aa54-26a7-46c5-a345-3013cd8819e6",
+    "characterId": "9438aa54-26a7-46c5-a345-3013cd8819e6",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -743,7 +743,7 @@
     "alternateName": "Heart Father",
     "japaneseName": "アトム・ハート・ファーザー",
     "image": "yoshihorokira.webp",
-    "standUser": "32b93a32-2a94-4168-99e4-e0fd7ce26d8f",
+    "characterId": "32b93a32-2a94-4168-99e4-e0fd7ce26d8f",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -758,7 +758,7 @@
     "alternateName": null,
     "japaneseName": "ストレイ・キャット (猫草)",
     "image": "straycat.png",
-    "standUser": "4eefaa34-ef3d-4240-8404-174563417ea2",
+    "characterId": "4eefaa34-ef3d-4240-8404-174563417ea2",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -775,7 +775,7 @@
     "alternateName": "Chili Pepper",
     "japaneseName": "レッド・ホット・チリ・ペッパー",
     "image": "chilipepper.png",
-    "standUser": "a3d8f416-fbce-4da0-ae15-660af4e58974",
+    "characterId": "a3d8f416-fbce-4da0-ae15-660af4e58974",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -792,7 +792,7 @@
     "alternateName": null,
     "japaneseName": "アクア・ネックレス（水の首飾り)",
     "image": "aquanecklace.webp",
-    "standUser": "472c1e36-d2a9-4d1d-8f0c-5a2f69ec2f77",
+    "characterId": "472c1e36-d2a9-4d1d-8f0c-5a2f69ec2f77",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -808,7 +808,7 @@
     "alternateName": null,
     "japaneseName": "ラット",
     "image": "ratt.webp",
-    "standUser": "9068b097-6a5d-4576-947a-cc1f5be83214",
+    "characterId": "9068b097-6a5d-4576-947a-cc1f5be83214",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -823,7 +823,7 @@
     "alternateName": null,
     "japaneseName": "ボーイ・II・マン",
     "image": "boy2man.webp",
-    "standUser": "02ed5697-eb9f-47ee-bbbf-f47197fea3b8",
+    "characterId": "02ed5697-eb9f-47ee-bbbf-f47197fea3b8",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -838,7 +838,7 @@
     "alternateName": null,
     "japaneseName": "スーパーフライ",
     "image": "superfly.webp",
-    "standUser": "70608f1f-e75e-4d67-9e0e-7c0fb9d2c8a5",
+    "characterId": "70608f1f-e75e-4d67-9e0e-7c0fb9d2c8a5",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -854,7 +854,7 @@
     "alternateName": "Misterioso",
     "japaneseName": "エニグマ",
     "image": "enigma.png",
-    "standUser": "824d966e-ca69-4140-9276-cf24bb68e1c1",
+    "characterId": "824d966e-ca69-4140-9276-cf24bb68e1c1",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -869,7 +869,7 @@
     "alternateName": "Cheap Trap",
     "japaneseName": "チープ・トリック",
     "image": "cheaptrick.png",
-    "standUser": "36257af0-4659-4f2c-9b20-419aa7c91b5c",
+    "characterId": "36257af0-4659-4f2c-9b20-419aa7c91b5c",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -885,7 +885,7 @@
     "alternateName": null,
     "japaneseName": "錠前",
     "image": "lock.webp",
-    "standUser": "bd46d956-c0c9-4e3f-9a0f-f1c8dd949270",
+    "characterId": "bd46d956-c0c9-4e3f-9a0f-f1c8dd949270",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -901,7 +901,7 @@
     "alternateName": "Invisible Baby",
     "japaneseName": "アクトン・ベイビー",
     "image": "shizuka.webp",
-    "standUser": "aab402b6-bb9d-4b37-bc0a-026e0a1caf0a",
+    "characterId": "aab402b6-bb9d-4b37-bc0a-026e0a1caf0a",
     "chapter": [
       "Diamond is Unbreakable"
     ],
@@ -916,7 +916,7 @@
     "alternateName": "Golden Wind",
     "japaneseName": "ゴールド・エクスペリエンス (黄金体験)",
     "image": "goldexperience.png",
-    "standUser": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
+    "characterId": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
     "chapter": [
       "Vento Aureo"
     ],
@@ -934,7 +934,7 @@
     "alternateName": "Golden Wind Requiem",
     "japaneseName": "ゴールド・エクスペリエンス・レクイエム",
     "image": "goldrequiem.png",
-    "standUser": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
+    "characterId": "1fc2fe0c-7b33-4486-ab67-b2f8d5553484",
     "chapter": [
       "Vento Aureo"
     ],
@@ -953,7 +953,7 @@
     "alternateName": "Zipper Man",
     "japaneseName": "スティッキィ・フィンガーズ",
     "image": "stickyfingers.png",
-    "standUser": "d6a7e82e-3a52-4eed-8dd0-6f9be38677dd",
+    "characterId": "d6a7e82e-3a52-4eed-8dd0-6f9be38677dd",
     "chapter": [
       "Vento Aureo"
     ],
@@ -968,7 +968,7 @@
     "alternateName": "Moody Jazz",
     "japaneseName": "ムーディー・ブルース",
     "image": "moodyblues.png",
-    "standUser": "0edc86c0-6a1a-4747-bf3b-41444d86444c",
+    "characterId": "0edc86c0-6a1a-4747-bf3b-41444d86444c",
     "chapter": [
       "Vento Aureo"
     ],
@@ -983,7 +983,7 @@
     "alternateName": "Six Bullets",
     "japaneseName": "セックス・ピストルズ",
     "image": "sexpistols.png",
-    "standUser": "e7031d0f-54e8-400b-b46c-3fb30d3b11dd",
+    "characterId": "e7031d0f-54e8-400b-b46c-3fb30d3b11dd",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1003,7 +1003,7 @@
     "alternateName": "Li'l Bomber",
     "japaneseName": "エアロスミス",
     "image": "aerosmith.png",
-    "standUser": "1ae6049e-48b4-468c-954b-833d6993570b",
+    "characterId": "1ae6049e-48b4-468c-954b-833d6993570b",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1019,7 +1019,7 @@
     "alternateName": "Purple Smoke",
     "japaneseName": "パープル・ヘイズ",
     "image": "purplehaze.png",
-    "standUser": "b55ebf3e-6979-4885-91e8-2e51c6b65ce7",
+    "characterId": "b55ebf3e-6979-4885-91e8-2e51c6b65ce7",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1034,7 +1034,7 @@
     "alternateName": "Spicy Lady",
     "japaneseName": "スパイス・ガール",
     "image": "spicegirl.png",
-    "standUser": "9538ba76-ca4a-45c4-9d96-bb6c723ff4d4",
+    "characterId": "9538ba76-ca4a-45c4-9d96-bb6c723ff4d4",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1049,7 +1049,7 @@
     "alternateName": "Requiem",
     "japaneseName": "チャリオッツ・レクイエム",
     "image": "chariotrequiem.png",
-    "standUser": "3d02e784-873b-471a-a18b-ddae283e8116",
+    "characterId": "3d02e784-873b-471a-a18b-ddae283e8116",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1069,7 +1069,7 @@
     "alternateName": null,
     "japaneseName": "ミスター・プレジデント",
     "image": "mrpresident.png",
-    "standUser": "fee46aa1-b903-4d05-9f9c-8bf8e0374040",
+    "characterId": "fee46aa1-b903-4d05-9f9c-8bf8e0374040",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1084,7 +1084,7 @@
     "alternateName": "Emporer Crimson (Eulogy)",
     "japaneseName": "キング・クリムゾン",
     "image": "kingcrimson.png",
-    "standUser": "853fa6f7-302f-4d59-a220-3747cf73befe",
+    "characterId": "853fa6f7-302f-4d59-a220-3747cf73befe",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1101,7 +1101,7 @@
     "alternateName": "Crush",
     "japaneseName": "クラッシュ",
     "image": "clash.png",
-    "standUser": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
+    "characterId": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1116,7 +1116,7 @@
     "alternateName": "Talking Mouth",
     "japaneseName": "トーキング・ヘッド",
     "image": "talkinghead.png",
-    "standUser": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
+    "characterId": "ab05c30c-d5ae-4563-8040-e6c5d0e61170",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1132,7 +1132,7 @@
     "alternateName": "Notorious Chase",
     "japaneseName": "ノトーリアス・B・I・G",
     "image": "notorious.png",
-    "standUser": "f459fb02-ed25-40f7-a823-ed7c51a5f209",
+    "characterId": "f459fb02-ed25-40f7-a823-ed7c51a5f209",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1150,7 +1150,7 @@
     "alternateName": "Green Tea",
     "japaneseName": "グリーン・ディ",
     "image": "greenday.png",
-    "standUser": "2f461448-ee6d-43ac-99a4-6697046aeca4",
+    "characterId": "2f461448-ee6d-43ac-99a4-6697046aeca4",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1166,7 +1166,7 @@
     "alternateName": "Sanctuary",
     "japaneseName": "オアシス",
     "image": "oasis.webp",
-    "standUser": "f0a9dcc6-7f92-49b8-8130-5b206c209f37",
+    "characterId": "f0a9dcc6-7f92-49b8-8130-5b206c209f37",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1183,7 +1183,7 @@
     "alternateName": "Shadow Sabbath",
     "japaneseName": "ブラック・サバス",
     "image": "blacksabbath.png",
-    "standUser": "fa6aed91-e98f-4ccc-908d-2ca8b113f0e5",
+    "characterId": "fa6aed91-e98f-4ccc-908d-2ca8b113f0e5",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1201,7 +1201,7 @@
     "alternateName": "Tender Machine",
     "japaneseName": "ソフト・マシーン",
     "image": "softmachine.png",
-    "standUser": "104c9ac4-4ca7-4cf8-a18e-fad37044f756",
+    "characterId": "104c9ac4-4ca7-4cf8-a18e-fad37044f756",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1216,7 +1216,7 @@
     "alternateName": "Arts & Crafts",
     "japaneseName": "クラフト・ワーク",
     "image": "kraftwork.png",
-    "standUser": "fc747554-3c51-4d44-ac27-8b076ef7d8c4",
+    "characterId": "fc747554-3c51-4d44-ac27-8b076ef7d8c4",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1233,7 +1233,7 @@
     "alternateName": "Metallic",
     "japaneseName": "メタリカ",
     "image": "metallica.png",
-    "standUser": "0997252b-282d-4dce-9165-c679d04ca3cb",
+    "characterId": "0997252b-282d-4dce-9165-c679d04ca3cb",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1250,7 +1250,7 @@
     "alternateName": "Tiny Feet",
     "japaneseName": "リトル・フィート",
     "image": "littlefeet.png",
-    "standUser": "83b8baad-e111-43b5-8aa5-7a2117134a9d",
+    "characterId": "83b8baad-e111-43b5-8aa5-7a2117134a9d",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1266,7 +1266,7 @@
     "alternateName": "Mirror Man",
     "japaneseName": "マン・イン・ザ・ミラー",
     "image": "mirrorman.png",
-    "standUser": "f92888f3-164c-4116-8b1e-2670feb61d24",
+    "characterId": "f92888f3-164c-4116-8b1e-2670feb61d24",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1281,7 +1281,7 @@
     "alternateName": null,
     "japaneseName": "ザ・グレイトフル・デッド (偉大なる死)",
     "image": "grateful.png",
-    "standUser": "3eabb474-9fa2-42fa-a174-57c7c5475afe",
+    "characterId": "3eabb474-9fa2-42fa-a174-57c7c5475afe",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1296,7 +1296,7 @@
     "alternateName": "Fisher Man",
     "japaneseName": "ビーチ・ボーイ",
     "image": "beachboy.webp",
-    "standUser": "8c96138a-918f-427e-a9f5-6577202df06a",
+    "characterId": "8c96138a-918f-427e-a9f5-6577202df06a",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1313,7 +1313,7 @@
     "alternateName": "Babyhead",
     "japaneseName": "ベイビィ・フェイス",
     "image": "babyface.png",
-    "standUser": "620b67dc-b799-49a1-b861-c2bb148020e2",
+    "characterId": "620b67dc-b799-49a1-b861-c2bb148020e2",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1333,7 +1333,7 @@
     "alternateName": "White Ice",
     "japaneseName": "ホワイト・アルバム",
     "image": "whitealbum.png",
-    "standUser": "742bcd25-9cb7-4a1f-8274-313c9f3cfc59",
+    "characterId": "742bcd25-9cb7-4a1f-8274-313c9f3cfc59",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1351,7 +1351,7 @@
     "alternateName": "Prophecy Stones",
     "japaneseName": "ローリング・ストーン(ズ)",
     "image": "rollingstone.webp",
-    "standUser": "e43d14d4-e80c-459c-97f1-4afa8f3b1095",
+    "characterId": "e43d14d4-e80c-459c-97f1-4afa8f3b1095",
     "chapter": [
       "Vento Aureo"
     ],
@@ -1366,7 +1366,7 @@
     "alternateName": "Stone Ocean",
     "japaneseName": "ストーン・フリー",
     "image": "stonefree.webp",
-    "standUser": "ec2f199e-6a38-4d7b-8d15-b9950775ac03",
+    "characterId": "ec2f199e-6a38-4d7b-8d15-b9950775ac03",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1384,7 +1384,7 @@
     "alternateName": null,
     "japaneseName": "キッス",
     "image": "kiss.png",
-    "standUser": "3cc31871-432c-4e55-b85c-7701ffb6d265",
+    "characterId": "3cc31871-432c-4e55-b85c-7701ffb6d265",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1399,7 +1399,7 @@
     "alternateName": null,
     "japaneseName": "バーニング・ダウン・ザ・ハウス",
     "image": "burning.webp",
-    "standUser": "e2727ad2-cc40-4d70-964f-2b0717dc5568",
+    "characterId": "e2727ad2-cc40-4d70-964f-2b0717dc5568",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1415,7 +1415,7 @@
     "alternateName": null,
     "japaneseName": "フー・ファイターズ",
     "image": "ff.webp",
-    "standUser": "b96ed32d-0ce6-414f-a695-dfde77eb63f6",
+    "characterId": "b96ed32d-0ce6-414f-a695-dfde77eb63f6",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1434,7 +1434,7 @@
     "alternateName": null,
     "japaneseName": "ダイバー・ダウン",
     "image": "diverdown.png",
-    "standUser": "5de913dd-7b2c-4b94-918b-64e2da6fe4ea",
+    "characterId": "5de913dd-7b2c-4b94-918b-64e2da6fe4ea",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1450,7 +1450,7 @@
     "alternateName": null,
     "japaneseName": "ウェザー・リポート",
     "image": "heavyweather.webp",
-    "standUser": "6fc74309-54d9-4465-8808-97b427b14420",
+    "characterId": "6fc74309-54d9-4465-8808-97b427b14420",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1471,7 +1471,7 @@
     "alternateName": null,
     "japaneseName": "グー・グー・ドールズ",
     "image": "googoo.webp",
-    "standUser": "c8fa0c3b-332b-42e5-9343-3d30ae6ea03a",
+    "characterId": "c8fa0c3b-332b-42e5-9343-3d30ae6ea03a",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1486,7 +1486,7 @@
     "alternateName": null,
     "japaneseName": "ホワイトスネイク",
     "image": "whitesnake.webp",
-    "standUser": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "characterId": "d31eeb5c-772a-442b-882c-a8790eb56991",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1503,7 +1503,7 @@
     "alternateName": null,
     "japaneseName": "C-Moon",
     "image": "cmoon.webp",
-    "standUser": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "characterId": "d31eeb5c-772a-442b-882c-a8790eb56991",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1522,7 +1522,7 @@
     "alternateName": null,
     "japaneseName": "メイド・イン・ヘブン",
     "image": "madeinheaven.webp",
-    "standUser": "d31eeb5c-772a-442b-882c-a8790eb56991",
+    "characterId": "d31eeb5c-772a-442b-882c-a8790eb56991",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1538,7 +1538,7 @@
     "alternateName": null,
     "japaneseName": "アンダー・ワールド",
     "image": "underworld.png",
-    "standUser": "09fdf142-c485-4944-8779-240c8e7b02bb",
+    "characterId": "09fdf142-c485-4944-8779-240c8e7b02bb",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1553,7 +1553,7 @@
     "alternateName": null,
     "japaneseName": "スカイ・ハイ",
     "image": "skyhigh.webp",
-    "standUser": "5b7ab2a0-1b7c-4e71-ba77-179814d6ec51",
+    "characterId": "5b7ab2a0-1b7c-4e71-ba77-179814d6ec51",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1570,7 +1570,7 @@
     "alternateName": null,
     "japaneseName": "ボヘミアン・ラプソディー (自由人の狂想曲)",
     "image": "bohemian.png",
-    "standUser": "cebf0570-8656-40a2-8572-1038684d6b34",
+    "characterId": "cebf0570-8656-40a2-8572-1038684d6b34",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1585,7 +1585,7 @@
     "alternateName": null,
     "japaneseName": "グリーン・グリーン・グラス・オブ・ホーム",
     "image": "greengreen.webp",
-    "standUser": "e62ae07a-e61b-454b-9355-05124a09b53f",
+    "characterId": "e62ae07a-e61b-454b-9355-05124a09b53f",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1600,7 +1600,7 @@
     "alternateName": null,
     "japaneseName": "マンハッタン・トランスファー",
     "image": "manhattan.webp",
-    "standUser": "2ebd3deb-1142-4aa7-be9b-972159a97044",
+    "characterId": "2ebd3deb-1142-4aa7-be9b-972159a97044",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1616,7 +1616,7 @@
     "alternateName": "Flaccid Pancake",
     "japaneseName": "リンプ・ビズキット",
     "image": "limpbizkit.jpg",
-    "standUser": "b0b3a648-6c31-4dd1-98ec-a199e1e2d5c3",
+    "characterId": "b0b3a648-6c31-4dd1-98ec-a199e1e2d5c3",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1631,7 +1631,7 @@
     "alternateName": null,
     "japaneseName": "ジェイル・ハウス・ロック（JAIL HOUSE LOCK)",
     "image": "jailhouselock.webp",
-    "standUser": "a85b92ab-9a47-4e9e-8802-a89f3c3d05bd",
+    "characterId": "a85b92ab-9a47-4e9e-8802-a89f3c3d05bd",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1646,7 +1646,7 @@
     "alternateName": null,
     "japaneseName": "取り立て人マリリン・マンソン",
     "image": "marilynmanson.png",
-    "standUser": "ee01450f-89f5-4707-bfde-348cb999ef02",
+    "characterId": "ee01450f-89f5-4707-bfde-348cb999ef02",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1661,7 +1661,7 @@
     "alternateName": null,
     "japaneseName": "ジャンピン・ジャック・フラッシュ",
     "image": "jumpinjack.png",
-    "standUser": "321d859d-a2a2-469c-80e0-fb232c27b929",
+    "characterId": "321d859d-a2a2-469c-80e0-fb232c27b929",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1677,7 +1677,7 @@
     "alternateName": null,
     "japaneseName": "ドラゴンズ・ドリーム（龍の夢)",
     "image": "dragon.png",
-    "standUser": "3fa5d9fa-089b-4575-ae16-c55b56d11f5b",
+    "characterId": "3fa5d9fa-089b-4575-ae16-c55b56d11f5b",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1695,7 +1695,7 @@
     "alternateName": null,
     "japaneseName": "ヨーヨーマッ",
     "image": "yoyo.png",
-    "standUser": "64ad30ac-0db6-4f84-9f7f-f3034d20d7a6",
+    "characterId": "64ad30ac-0db6-4f84-9f7f-f3034d20d7a6",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1713,7 +1713,7 @@
     "alternateName": null,
     "japaneseName": "サバイバー",
     "image": "survivor.jpg",
-    "standUser": "78585f59-1c42-49d1-913c-cb9acb250ee2",
+    "characterId": "78585f59-1c42-49d1-913c-cb9acb250ee2",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1729,7 +1729,7 @@
     "alternateName": null,
     "japaneseName": "プラネット・ウェイブス",
     "image": "planetwaves.png",
-    "standUser": "fb9ef55e-d5ec-4e6e-b8a5-243ccf9e3234",
+    "characterId": "fb9ef55e-d5ec-4e6e-b8a5-243ccf9e3234",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1744,7 +1744,7 @@
     "alternateName": null,
     "japaneseName": "ハイウェイ・トゥ・ヘル (地獄のハイウェイ)",
     "image": "highway.png",
-    "standUser": "ecc7af1e-e536-4059-9d92-26351323cb1d",
+    "characterId": "ecc7af1e-e536-4059-9d92-26351323cb1d",
     "chapter": [
       "Stone Ocean"
     ],
@@ -1759,7 +1759,7 @@
     "alternateName": null,
     "japaneseName": "タスク",
     "image": "tusk.jpg",
-    "standUser": "57c093d6-8464-4463-990b-68bf986c04fd",
+    "characterId": "57c093d6-8464-4463-990b-68bf986c04fd",
     "chapter": [
       "Steel Ball Run",
       "Jojolion"
@@ -1778,7 +1778,7 @@
     "alternateName": null,
     "japaneseName": "ボール・ブレイカー",
     "image": "ballbreaker.png",
-    "standUser": "14e04268-332e-4e27-9d99-c05972d9eabe",
+    "characterId": "14e04268-332e-4e27-9d99-c05972d9eabe",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1794,7 +1794,7 @@
     "alternateName": null,
     "japaneseName": "涙の乗車券",
     "image": "ticket.png",
-    "standUser": "38f13a70-d9aa-4a94-8681-1f1a37c47cec",
+    "characterId": "38f13a70-d9aa-4a94-8681-1f1a37c47cec",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1810,7 +1810,7 @@
     "alternateName": null,
     "japaneseName": "クリーム・スターター",
     "image": "creamstarter.webp",
-    "standUser": "987a3804-c1b9-4ba0-bcfe-6027d9f897e5",
+    "characterId": "987a3804-c1b9-4ba0-bcfe-6027d9f897e5",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1825,7 +1825,7 @@
     "alternateName": null,
     "japaneseName": "オー！ロンサム・ミー",
     "image": "lonesome.webp",
-    "standUser": "7b113f70-2064-46ce-a657-13b3f2acb940",
+    "characterId": "7b113f70-2064-46ce-a657-13b3f2acb940",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1840,7 +1840,7 @@
     "alternateName": null,
     "japaneseName": "スケアリー・モンスターズ",
     "image": "scarymonsters.webp",
-    "standUser": "9ae05edf-1e56-4da8-8028-36b7be9c19b3",
+    "characterId": "9ae05edf-1e56-4da8-8028-36b7be9c19b3",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1857,7 +1857,7 @@
     "alternateName": null,
     "japaneseName": "20th Century BOY（トウェンティース・センチュリー・ボーイ)",
     "image": "20thcentury.webp",
-    "standUser": "8faea665-66e6-4bbe-b849-52711595f154",
+    "characterId": "8faea665-66e6-4bbe-b849-52711595f154",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1872,7 +1872,7 @@
     "alternateName": null,
     "japaneseName": "ヘイ・ヤー",
     "image": "heyya.webp",
-    "standUser": "3adb83ee-fb1a-41fe-b676-da92e064b919",
+    "characterId": "3adb83ee-fb1a-41fe-b676-da92e064b919",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1887,7 +1887,7 @@
     "alternateName": "D4C, Filthy Acts at a Reasonable Price",
     "japaneseName": "ダーティー・ディーズ・ダン・ダート・チープ",
     "image": "d4c.webp",
-    "standUser": "e5c0376c-bd2f-406a-b4a1-a133f08fd2b6",
+    "characterId": "e5c0376c-bd2f-406a-b4a1-a133f08fd2b6",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1904,7 +1904,7 @@
     "alternateName": null,
     "japaneseName": "キャッチ・ザ・レインボー",
     "image": "catchtherainbow.jpg",
-    "standUser": "b2968d63-e512-4045-bfcf-d43a401e2122",
+    "characterId": "b2968d63-e512-4045-bfcf-d43a401e2122",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1920,7 +1920,7 @@
     "alternateName": null,
     "japaneseName": "チューブラー・ベルズ",
     "image": "tubularbells.png",
-    "standUser": "ef056edc-79bb-497f-8478-62e11076b3bf",
+    "characterId": "ef056edc-79bb-497f-8478-62e11076b3bf",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1935,7 +1935,7 @@
     "alternateName": null,
     "japaneseName": "マンダム",
     "image": "mandom.jpg",
-    "standUser": "e435010a-388f-4588-88cd-1cb26ea190c9",
+    "characterId": "e435010a-388f-4588-88cd-1cb26ea190c9",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1950,7 +1950,7 @@
     "alternateName": null,
     "japaneseName": "シビル・ウォー",
     "image": "civilwar.webp",
-    "standUser": "42edc123-028d-4697-928b-ddc3d083506a",
+    "characterId": "42edc123-028d-4697-928b-ddc3d083506a",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1966,7 +1966,7 @@
     "alternateName": null,
     "japaneseName": "チョコレート・ディスコ",
     "image": "chocolatedisco.webp",
-    "standUser": "6675741f-70ec-438a-b1a1-8637d7d28228",
+    "characterId": "6675741f-70ec-438a-b1a1-8637d7d28228",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1981,7 +1981,7 @@
     "alternateName": null,
     "japaneseName": "タトゥーユー！",
     "image": "tatoo.webp",
-    "standUser": "568f0ef6-9ab5-4483-afec-5867c08bd51f",
+    "characterId": "568f0ef6-9ab5-4483-afec-5867c08bd51f",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -1997,7 +1997,7 @@
     "alternateName": null,
     "japaneseName": "ワイアード",
     "image": "wired.webp",
-    "standUser": "7fd90f5a-e5ca-400b-9862-e5cbbad20188",
+    "characterId": "7fd90f5a-e5ca-400b-9862-e5cbbad20188",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2012,7 +2012,7 @@
     "alternateName": null,
     "japaneseName": "イン・ア・サイレント・ウェイ",
     "image": "silentway.jpg",
-    "standUser": "f62778a9-a4b4-49cf-b9d0-8591506b09a4",
+    "characterId": "f62778a9-a4b4-49cf-b9d0-8591506b09a4",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2028,7 +2028,7 @@
     "alternateName": null,
     "japaneseName": "トゥーム・オブ・ザ・ブーム",
     "image": "tomb1.png",
-    "standUser": "b8f4c9db-a05e-4576-8060-e44e96680cb8",
+    "characterId": "b8f4c9db-a05e-4576-8060-e44e96680cb8",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2045,7 +2045,7 @@
     "alternateName": null,
     "japaneseName": "トゥーム・オブ・ザ・ブーム",
     "image": "tomb2.png",
-    "standUser": "9c0e19e4-1c29-426d-923f-15ce45b250cf",
+    "characterId": "9c0e19e4-1c29-426d-923f-15ce45b250cf",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2060,7 +2060,7 @@
     "alternateName": null,
     "japaneseName": "トゥーム・オブ・ザ・ブーム",
     "image": "tomb3.png",
-    "standUser": "c0a8dad8-1788-4ab6-9eee-c93824031955",
+    "characterId": "c0a8dad8-1788-4ab6-9eee-c93824031955",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2077,7 +2077,7 @@
     "alternateName": null,
     "japaneseName": "ボクのリズムを聴いてくれ",
     "image": "boku.webp",
-    "standUser": "7eaf1a36-a475-4d97-81da-46b32702ee8c",
+    "characterId": "7eaf1a36-a475-4d97-81da-46b32702ee8c",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2092,7 +2092,7 @@
     "alternateName": null,
     "japaneseName": "シュガー・マウンテンの泉",
     "image": "sugartree.webp",
-    "standUser": "09548d65-ce30-4a27-bb9f-d0960c946d8e",
+    "characterId": "09548d65-ce30-4a27-bb9f-d0960c946d8e",
     "chapter": [
       "Steel Ball Run"
     ],
@@ -2109,7 +2109,7 @@
     "alternateName": null,
     "japaneseName": "ソフト＆ウェット",
     "image": "softwet.webp",
-    "standUser": "bac448da-b732-49ab-9d09-38cb589a677d",
+    "characterId": "bac448da-b732-49ab-9d09-38cb589a677d",
     "chapter": [
       "Jojolion"
     ],
@@ -2128,7 +2128,7 @@
     "alternateName": null,
     "japaneseName": "ペイズリー・パーク",
     "image": "paisley.png",
-    "standUser": "a42012ea-0d15-453a-ae5e-7345cf420cb4",
+    "characterId": "a42012ea-0d15-453a-ae5e-7345cf420cb4",
     "chapter": [
       "Jojolion"
     ],
@@ -2145,7 +2145,7 @@
     "alternateName": null,
     "japaneseName": "ドギー・スタイル",
     "image": "doggystyle.webp",
-    "standUser": "b9397027-4ada-400f-83a6-6f8bfd418c2c",
+    "characterId": "b9397027-4ada-400f-83a6-6f8bfd418c2c",
     "chapter": [
       "Jojolion"
     ],
@@ -2161,7 +2161,7 @@
     "alternateName": null,
     "japaneseName": "ナット・キング・コール",
     "image": "nutkingcall.webp",
-    "standUser": "616629c9-4a27-44eb-b569-9c17b50143dc",
+    "characterId": "616629c9-4a27-44eb-b569-9c17b50143dc",
     "chapter": [
       "Jojolion"
     ],
@@ -2176,7 +2176,7 @@
     "alternateName": null,
     "japaneseName": "ペーパー・ムーン・キング",
     "image": "papermoon.png",
-    "standUser": "cd38ef8a-98e6-48f6-a5bb-ebf59a787247",
+    "characterId": "cd38ef8a-98e6-48f6-a5bb-ebf59a787247",
     "chapter": [
       "Jojolion"
     ],
@@ -2192,7 +2192,7 @@
     "alternateName": null,
     "japaneseName": "キング・ナッシング",
     "image": "kingnothing.webp",
-    "standUser": "37be0c9a-8546-495a-b2a3-1ee396159bea",
+    "characterId": "37be0c9a-8546-495a-b2a3-1ee396159bea",
     "chapter": [
       "Jojolion"
     ],
@@ -2208,7 +2208,7 @@
     "alternateName": null,
     "japaneseName": "スペース・トラッキング",
     "image": "spacetrucking.webp",
-    "standUser": "2a330f20-abfc-4156-b6e2-a64ce1f2c999",
+    "characterId": "2a330f20-abfc-4156-b6e2-a64ce1f2c999",
     "chapter": [
       "Jojolion"
     ],
@@ -2223,7 +2223,7 @@
     "alternateName": null,
     "japaneseName": "カリフォルニア・キング・ベッドちゃん",
     "image": "californiaking.webp",
-    "standUser": "4d0e194f-d559-4611-a8a0-98066a02abde",
+    "characterId": "4d0e194f-d559-4611-a8a0-98066a02abde",
     "chapter": [
       "Jojolion"
     ],
@@ -2238,7 +2238,7 @@
     "alternateName": null,
     "japaneseName": "ウォーキング・ハート",
     "image": "walkingheart.webp",
-    "standUser": "a361359c-53c6-4a93-9382-85cd22bc0ae0",
+    "characterId": "a361359c-53c6-4a93-9382-85cd22bc0ae0",
     "chapter": [
       "Jojolion"
     ],
@@ -2253,7 +2253,7 @@
     "alternateName": null,
     "japaneseName": "スピード・キング",
     "image": "speedking.webp",
-    "standUser": "31e2d4e6-12a0-4eb1-92ae-a5213047e3f5",
+    "characterId": "31e2d4e6-12a0-4eb1-92ae-a5213047e3f5",
     "chapter": [
       "Jojolion"
     ],
@@ -2268,7 +2268,7 @@
     "alternateName": null,
     "japaneseName": "アウェイキング・三リーブス",
     "image": "awakingleaves.png",
-    "standUser": "7dbdca59-6357-413d-8fb8-cc0b266f7376",
+    "characterId": "7dbdca59-6357-413d-8fb8-cc0b266f7376",
     "chapter": [
       "Jojolion"
     ],
@@ -2283,7 +2283,7 @@
     "alternateName": null,
     "japaneseName": "ボーン・ディス・ウェイ",
     "image": "bornthisway.webp",
-    "standUser": "3e1da7eb-5cf5-4fd8-b138-588e8a5c53cc",
+    "characterId": "3e1da7eb-5cf5-4fd8-b138-588e8a5c53cc",
     "chapter": [
       "Jojolion"
     ],
@@ -2300,7 +2300,7 @@
     "alternateName": null,
     "japaneseName": "キラークイーン",
     "image": "killerqueen8.png",
-    "standUser": "8ea25ad1-5118-4d81-ab72-e86260fb57ca",
+    "characterId": "8ea25ad1-5118-4d81-ab72-e86260fb57ca",
     "chapter": [
       "Jojolion"
     ],
@@ -2315,7 +2315,7 @@
     "alternateName": null,
     "japaneseName": "ラブラブデラックス",
     "image": "lovelovedeluxe.webp",
-    "standUser": "61e6a865-5fbc-41d5-bb9b-6e440835a9da",
+    "characterId": "61e6a865-5fbc-41d5-bb9b-6e440835a9da",
     "chapter": [
       "Jojolion"
     ],
@@ -2330,7 +2330,7 @@
     "alternateName": null,
     "japaneseName": "ビタミンC",
     "image": "vitaminc.webp",
-    "standUser": "de9ff1ad-edf3-47b3-b6cc-e1abeaf88957",
+    "characterId": "de9ff1ad-edf3-47b3-b6cc-e1abeaf88957",
     "chapter": [
       "Jojolion"
     ],
@@ -2345,7 +2345,7 @@
     "alternateName": null,
     "japaneseName": "アイ・アム・ア・ロック",
     "image": "iamarock.jpg",
-    "standUser": "2adc64c2-a148-4d6e-826a-6e5b9b13222c",
+    "characterId": "2adc64c2-a148-4d6e-826a-6e5b9b13222c",
     "chapter": [
       "Jojolion"
     ],
@@ -2360,7 +2360,7 @@
     "alternateName": null,
     "japaneseName": "ドゥービー・ワゥ！",
     "image": "doobiewah.webp",
-    "standUser": "b9a73642-aaf9-4962-94e4-94dd1e0037e6",
+    "characterId": "b9a73642-aaf9-4962-94e4-94dd1e0037e6",
     "chapter": [
       "Jojolion"
     ],
@@ -2375,7 +2375,7 @@
     "alternateName": null,
     "japaneseName": "ショット・キーNo.1",
     "image": "schottkey1.webp",
-    "standUser": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
+    "characterId": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
     "chapter": [
       "Jojolion"
     ],
@@ -2390,7 +2390,7 @@
     "alternateName": null,
     "japaneseName": "ショット・キーNo.2",
     "image": "schottkey2.webp",
-    "standUser": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
+    "characterId": "e135c66a-db0e-46d4-99a4-bdca835f7af1",
     "chapter": [
       "Jojolion"
     ],
@@ -2405,7 +2405,7 @@
     "alternateName": null,
     "japaneseName": "ブルー・ハワイ",
     "image": "bluehawaii.webp",
-    "standUser": "a48039a7-e5cb-447d-bdb7-52144480a775",
+    "characterId": "a48039a7-e5cb-447d-bdb7-52144480a775",
     "chapter": [
       "Jojolion"
     ],
@@ -2420,7 +2420,7 @@
     "alternateName": null,
     "japaneseName": "ブレイン・ストーム",
     "image": "brainstorm.webp",
-    "standUser": "aef856e7-b07d-4780-a747-b6e09fa9e093",
+    "characterId": "aef856e7-b07d-4780-a747-b6e09fa9e093",
     "chapter": [
       "Jojolion"
     ],
@@ -2435,7 +2435,7 @@
     "alternateName": null,
     "japaneseName": "オゾン・ベイビー",
     "image": "ozonbaby.png",
-    "standUser": "a92dcc36-9f9f-4265-ba47-c51776a4a3bb",
+    "characterId": "a92dcc36-9f9f-4265-ba47-c51776a4a3bb",
     "chapter": [
       "Jojolion"
     ],
@@ -2450,7 +2450,7 @@
     "alternateName": null,
     "japaneseName": "ドクター・ウー",
     "image": "doctorwu.png",
-    "standUser": "0dbcffcc-4352-490f-a968-5b7a0daa6afa",
+    "characterId": "0dbcffcc-4352-490f-a968-5b7a0daa6afa",
     "chapter": [
       "Jojolion"
     ],
@@ -2465,7 +2465,7 @@
     "alternateName": null,
     "japaneseName": "ワンダー・オブ・U",
     "image": "wonderofu.png",
-    "standUser": "bb8c6dd5-1f54-43ba-a925-f06ec5f5a706",
+    "characterId": "bb8c6dd5-1f54-43ba-a925-f06ec5f5a706",
     "chapter": [
       "Jojolion"
     ],
@@ -2485,7 +2485,7 @@
     "alternateName": null,
     "japaneseName": "ファン・ファン・ファン",
     "image": "funfunfun.png",
-    "standUser": "bba2b673-efb0-4f69-9b3b-d453a09d1dd8",
+    "characterId": "bba2b673-efb0-4f69-9b3b-d453a09d1dd8",
     "chapter": [
       "Jojolion"
     ],
@@ -2500,7 +2500,7 @@
     "alternateName": "karma test",
     "japaneseName": "karma",
     "image": "karma.jpg",
-    "standUser": "e07f8ded-704c-47ab-b7d1-714d77c44087",
+    "characterId": "e07f8ded-704c-47ab-b7d1-714d77c44087",
     "chapter": [
       "Diamond is Unbrekeable"
     ],

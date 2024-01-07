@@ -2,14 +2,22 @@ import express, { Request, Response } from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import getAPIRouter from './routes';
-
-require('dotenv').config();
+// eslint-disable-next-line import/no-extraneous-dependencies
+import 'reflect-metadata';
+import AppDataSource from './db/data-source';
 
 const app = express();
 
 app.use(cors());
 app.use(bodyParser.json());
 app.use(express.json());
+
+// init db 
+
+AppDataSource.initialize()
+  .then(() => {
+  })
+  .catch((error) => console.error(error));
 
 app.get('/health', (req: Request, res: Response) => {
   res.json({ status: 'ok' });
