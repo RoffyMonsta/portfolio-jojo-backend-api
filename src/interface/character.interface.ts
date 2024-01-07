@@ -1,3 +1,5 @@
+import { IStand } from './stand.interface';
+
 export interface ICharacter {
   id: string,
   name: string,
@@ -10,4 +12,8 @@ export interface ICharacter {
   chapter: string[],
   living: boolean,
   isHuman: boolean
+}
+
+export interface ICharacterWithStands extends ICharacter {
+  stands: IStand[];
 }

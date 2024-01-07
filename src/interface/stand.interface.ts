@@ -4,7 +4,7 @@ export interface IStand {
   alternateName?: string,
   japaneseName: string,
   image: string,
-  standUser: string,
+  characterId: string,
   chapter: string[],
   abilities: string[],
   battlecry?: string,
