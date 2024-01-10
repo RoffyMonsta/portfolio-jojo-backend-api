@@ -12,12 +12,13 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.json());
 
-// init db 
-
-AppDataSource.initialize()
-  .then(() => {
-  })
-  .catch((error) => console.error(error));
+(async () => {
+  try {
+    await AppDataSource.initialize();
+  } catch (error) {
+    console.error('Error initializing the database:', error);
+  }
+})();
 
 app.get('/health', (req: Request, res: Response) => {
   res.json({ status: 'ok' });
@@ -33,7 +34,7 @@ app.use('*', (req: Request, res: Response) => {
 
 const PORT = process.env.PORT || 3000;
 
-app.listen(PORT, () => {
+export const server = app.listen(PORT, () => {
   console.info(`server up on port ${PORT}`);
 });
 

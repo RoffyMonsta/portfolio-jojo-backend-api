@@ -34,6 +34,7 @@ export default class Seeder {
           await transactionalEntityManager.save(entity);
         }
       });
+      
   
       console.log('Data inserted successfully.');
     } catch (error) {
